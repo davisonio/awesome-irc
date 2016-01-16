@@ -102,7 +102,8 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [CIRC](https://flackr.github.io/circ/) - uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy ([source](https://github.com/flackr/circ)) `Chrome`
 - [nirc](https://github.com/cjstewart88/nirc) - simple ([demo](https://nirc.herokuapp.com)) `Web`
 - [Quassel](http://quassel-irc.org) - distributed (clients can attach to and detach from a central core that stays permanently online ([source](https://github.com/quassel/quassel)) `Linux` `OS X` `Windows`
-- [Yaaic](http://www.yaaic.org/) - multi-server/channel support, SASL support, Smooth channel scrolling / swiping ([source](https://github.com/pocmo/Yaaic))`Android`
+- [Yaaic](http://www.yaaic.org/) - multi-server/channel support, SASL support, Smooth channel scrolling / swiping ([source](https://github.com/pocmo/Yaaic)) `Android`
+- [koko](https://github.com/noraesae/koko) - minimalistic design, VIM-like shortcuts and built on electron `Windows` `OS X`
 
 *Something else? Clients that are also bouncers are found [under bouncers](#bouncers).*
 
