@@ -54,6 +54,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [Skybot](https://github.com/rmmh/skybot) - main goals are simplicity and power `Python`
 - [Jenni](https://github.com/myano/jenni) - `Python`
 - [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - responds to configured trigger phrases with quotes from notable women ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
+- [lazybot](http://lazybot.org) - user-friendly and powerful ([source](https://github.com/Raynes/lazybot)) `Clojure`
 
 ## Bouncers
 
