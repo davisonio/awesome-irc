@@ -52,7 +52,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [Limnoria](https://github.com/ProgVal/Limnoria) - robust, user friendly, developer friendly `Python`
 - [Twitch Plays](https://github.com/aidanrt/twitch-plays) - takes input from the chat and presses the corresponding key `Python`
 - [Skybot](https://github.com/rmmh/skybot) - main goals are simplicity and power `Python`
-- [Jenni](https://github.com/myano/jenni) `Python`
+- [Jenni](https://github.com/myano/jenni) - `Python`
 
 ## Bouncers
 
@@ -126,6 +126,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [go-ircevent](https://github.com/thoj/go-ircevent) - event-based `Go`
 - [pyaib](https://github.com/facebook/pyaib) - easy to use framework for writing bots `Python`
 - [slack-irc](https://github.com/ekmartin/slack-irc) - connects Slack and IRC channels by sending messages back and forth `JavaScript`
+- [slate-irc](https://github.com/slate/slate-irc) - plugin system, simple api, arbitrary input stream, debug support `JavaScript`
 
 ## Guides
 
