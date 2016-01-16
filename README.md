@@ -28,6 +28,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [Clients](#clients)
 - [Daemons](#daemons)
 - [Frameworks](#frameworks)
+  - [Bridges](#bridges)
 - [Guides](#guides)
 - [Networks](#networks)
 - [Other](#other)
@@ -129,8 +130,11 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [Hubot IRC Adapter](https://github.com/nandub/hubot-irc) - the IRC adapter for hubot `JavaScript`
 - [go-ircevent](https://github.com/thoj/go-ircevent) - event-based `Go`
 - [pyaib](https://github.com/facebook/pyaib) - easy to use framework for writing bots `Python`
-- [slack-irc](https://github.com/ekmartin/slack-irc) - connects Slack and IRC channels by sending messages back and forth `JavaScript`
 - [slate-irc](https://github.com/slate/slate-irc) - plugin system, simple api, arbitrary input stream, debug support `JavaScript`
+
+### Bridges
+
+- [slack-irc](https://github.com/ekmartin/slack-irc) - connects Slack and IRC channels by sending messages back and forth `JavaScript`
 
 ## Guides
 
