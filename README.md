@@ -52,6 +52,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [Limnoria](https://github.com/ProgVal/Limnoria) - robust, user friendly, developer friendly `Python`
 - [Twitch Plays](https://github.com/aidanrt/twitch-plays) - takes input from the chat and presses the corresponding key `Python`
 - [Skybot](https://github.com/rmmh/skybot) - main goals are simplicity and power `Python`
+- [Jenni](https://github.com/myano/jenni) `Python`
 
 ## Bouncers
 
