@@ -160,10 +160,6 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 - [IRCv3 Working Group](http://ircv3.net) - a group of IRC client and server software authors working to enhance, improve, maintain and standardize the current IRC protocol ([source](https://github.com/ircv3/ircv3.github.io))
 
-- [Ask HN: Does anyone still use IRC?](https://news.ycombinator.com/item?id=1561306) - channel/server recommendations
-
-- [Ask HN: Best IRC channels?](https://news.ycombinator.com/item?id=7161236) - channel recommendations
-
 *Something else? Things which are not awesome (anymore) are kept in the [archive](https://github.com/davisonio/awesome-irc/blob/master/archive.md).*
 
 ## Authors
