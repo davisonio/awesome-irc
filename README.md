@@ -134,7 +134,10 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 ### Bridges
 
-- [slack-irc](https://github.com/ekmartin/slack-irc) - connects Slack and IRC channels by sending messages back and forth `JavaScript`
+*Sends messages back and forth.*
+
+- [slack-irc](https://github.com/ekmartin/slack-irc) - connects Slack and IRC channels `JavaScript`
+- [CamperVan](https://github.com/zerowidth/camper_van) - connects Campfire rooms/users and IRC channels/nicks `Ruby`
 
 ## Guides
 
