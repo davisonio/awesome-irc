@@ -5,6 +5,7 @@ A list of things which are not awesome (anymore) for some reason.
 ## Table of Contents
 
 - [Clients](#clients)
+- [Frameworks](#frameworks)
 
 ## Clients
 
