@@ -23,7 +23,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
   - [Hosted](#hosted)
 - [Channels](#channels)
   - [Discovery](#discovery)
-  - [Platforms](#platoforms)
+  - [Platforms](#platforms)
   - [Programming Languages](#programming-languages)
 - [Clients](#clients)
 - [Daemons](#daemons)
