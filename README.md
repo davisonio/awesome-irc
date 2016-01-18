@@ -58,6 +58,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - responds to configured trigger phrases with quotes from notable women ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
 - [lazybot](http://lazybot.org) - user-friendly and powerful ([source](https://github.com/Raynes/lazybot)) `Clojure`
 - [IRC-BF](https://github.com/SirCmpwn/bf-irc-bot) - `Brainfuck`
+- [geordi](http://www.eelis.net/geordi/) - compiles and runs C++ code snippets ([source](https://github.com/Eelis/geordi)) `C++`
 
 ## Bouncers
 
