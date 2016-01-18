@@ -115,8 +115,9 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [Yaaic](http://www.yaaic.org/) - multi-server/channel support, SASL support, Smooth channel scrolling / swiping ([source](https://github.com/pocmo/Yaaic)) `Android`
 - [koko](https://github.com/noraesae/koko) - minimalistic design, VIM-like shortcuts and built on electron `Windows` `OS X`
 - [relay.js](https://github.com/Fauntleroy/relay.js) - focuses on making IRC less intimidating and easier to use ([demo](http://demo.relayjs.com)) `Web`
-- [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs Lisp`
+- [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs`
 - [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi))`Linux` `Windows` `OS X`
+- [aIRChat](https://github.com/zsck/aIRChat) - beautiful, modernized, browser-based `Web`
 
 *Something else? Clients that are also bouncers are found [under bouncers](#bouncers).*
 
