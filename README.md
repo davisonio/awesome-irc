@@ -75,6 +75,8 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 - [ZNC](http://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
 - [IRCAnywhere](http://ircanywhere.com) - built for teams and gives control + privacy to you (alpha) ([source](https://github.com/ircanywhere/ircanywhere))
+- [TapChat](http://tapchatapp.com) - modern IRC ([source](https://github.com/tapchat/tapchat))
+  - [Android App](https://play.google.com/store/apps/details?id=com.tapchatapp.android) - ([source](https://github.com/tapchat/tapchat-android)) `Java`
 
 ## Channels
 
