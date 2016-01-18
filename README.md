@@ -114,6 +114,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [koko](https://github.com/noraesae/koko) - minimalistic design, VIM-like shortcuts and built on electron `Windows` `OS X`
 - [relay.js](https://github.com/Fauntleroy/relay.js) - focuses on making IRC less intimidating and easier to use ([demo](http://demo.relayjs.com)) `Web`
 - [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs Lisp`
+- [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi))`Linux` `Windows` `OS X`
 
 *Something else? Clients that are also bouncers are found [under bouncers](#bouncers).*
 
