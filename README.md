@@ -47,6 +47,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 *IRC users which provide services for humans, e.g. integrations or information.*
 
 - [BotBot.me](https://botbot.me) - makes IRC logs awesome ([source](https://github.com/BotBotMe/botbot-bot))
+  - [Web interface](https://github.com/BotBotMe/botbot-web) - ([demo](https://botbot.me/freenode/ghost/))
 - [Sopel](http://sopel.chat) - tonnes of ready made features, tutorial, fully documented ([source](https://github.com/sopel-irc/sopel)) `Python`
 - [phenny](http://inamidst.com/phenny/) - simple, module creation guide ([source](https://github.com/sbp/phenny)) `Python`
 - [IRCcat](http://www.metabrew.com/article/how-we-use-irc-at-lastfm) - simplifies messaging from shell scripts ([source](https://github.com/RJ/irccat)) `Java`
