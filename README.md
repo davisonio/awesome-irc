@@ -66,6 +66,8 @@ This is a list of tools, software & other resources related to the IRC chat prot
 ### Hosted
 
 - [IRCCloud](https://www.irccloud.com) - group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message. (+client) (£0-£3.50/month)
+  - [iOS App](https://github.com/irccloud/ios) - official `Objective-C`
+  - [Android App](https://github.com/irccloud/android) - official `Java`
 - [Grove](https://grove.io) - hosted IRC and so much more (+client) ($10-$125/month)
 - [Firrre](https://firrre.com) - authorized connections to Free / Libre / Open Source driven IRC Networks (Free)
 
