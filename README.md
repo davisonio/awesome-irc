@@ -59,6 +59,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [lazybot](http://lazybot.org) - user-friendly and powerful ([source](https://github.com/Raynes/lazybot)) `Clojure`
 - [IRC-BF](https://github.com/SirCmpwn/bf-irc-bot) - `Brainfuck`
 - [geordi](http://www.eelis.net/geordi/) - compiles and runs C++ code snippets ([source](https://github.com/Eelis/geordi)) `C++`
+- [CloudBot](https://github.com/CloudBotIRC/CloudBot) - simple, fast, expandable `Python`
 
 ## Bouncers
 
