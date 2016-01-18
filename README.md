@@ -139,6 +139,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 - [slack-irc](https://github.com/ekmartin/slack-irc) - connects Slack and IRC channels `JavaScript`
 - [CamperVan](https://github.com/zerowidth/camper_van) - connects Campfire rooms/users and IRC channels/nicks `Ruby`
+- [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - connects XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat to IRC `C`
 
 ## Guides
 
