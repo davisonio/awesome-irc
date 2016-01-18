@@ -121,6 +121,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [Atheme](http://atheme.net) - legacy set of services designed for large networks with high scalability requirements ([source](https://github.com/atheme/atheme))
 - [miniircd](https://github.com/jrosdahl/miniircd) - very simple and limited
 - [ngIRCd](http://ngircd.barton.de) - portable and lightweight for small or private networks ([source](https://github.com/ngircd/ngircd))
+- [anope](http://anope.org) - designed for flexibility and ease of use ([source](https://github.com/anope/anope))
 
 ## Frameworks
 
