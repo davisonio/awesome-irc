@@ -144,6 +144,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [go-ircevent](https://github.com/thoj/go-ircevent) - event-based `Go`
 - [pyaib](https://github.com/facebook/pyaib) - easy to use framework for writing bots `Python`
 - [slate-irc](https://github.com/slate/slate-irc) - plugin system, simple api, arbitrary input stream, debug support `JavaScript`
+- [Jerk](https://github.com/gf3/Jerk) - ridiculously simple to set-up and get going `JavaScript`
 
 ### Bridges
 
