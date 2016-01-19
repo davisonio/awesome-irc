@@ -3,7 +3,7 @@
 > A curated list of awesome [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources
 
 <p align="center">
-<b><a href="#install">Table of Contents</a></b>
+<b><a href="#table-of-contents">Table of Contents</a></b>
 ·
 <b><a href="#authors">Authors</a></b>
 ·
