@@ -1,4 +1,4 @@
-# Awesome IRC :speech_balloon: [![](https://img.shields.io/travis/davisonio/awesome-irc.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-irc) [![](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome IRC :speech_balloon: [![](https://img.shields.io/travis/davisonio/awesome-irc.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-irc) [![](https://cdn.rawgit.com/sindresorhus/awesome/d200537/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources
 
