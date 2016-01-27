@@ -5,6 +5,8 @@
 <p align="center">
 <b><a href="#table-of-contents">Table of Contents</a></b>
 ·
+<b><a href="#more">More</a></b>
+·
 <b><a href="#authors">Authors</a></b>
 ·
 <b><a href="#license--credits">License & Credits</a></b>
@@ -175,7 +177,10 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 - [IRCv3 Working Group](http://ircv3.net) - a group of IRC client and server software authors working to enhance, improve, maintain and standardize the current IRC protocol ([source](https://github.com/ircv3/ircv3.github.io))
 
-*Something else? Things which are not awesome (anymore) are kept in the [archive](https://github.com/davisonio/awesome-irc/blob/master/archive.md).*
+## More
+
+- [Awesome IRC - Archive](https://github.com/davisonio/awesome-irc/blob/master/archive.md)
+
 
 ## Authors
 
