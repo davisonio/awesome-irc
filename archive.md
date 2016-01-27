@@ -6,8 +6,15 @@ Once the suggestions shown below have been resolved they can be moved into the m
 
 ## Table of Contents
 
+- [Bots](#bots)
 - [Clients](#clients)
 - [Frameworks](#frameworks)
+- [Other](#other)
+
+## Bots
+
+- [Tenyks](https://github.com/kyleterry/tenyks) - for hackers `Go`
+  - website (tenyks.io) certificate expired
 
 ## Clients
 
@@ -22,3 +29,12 @@ Once the suggestions shown below have been resolved they can be moved into the m
 
 - [Autumn](https://github.com/RISCfuture/autumn) - Easy, fresh, feature-rich `Ruby`
   - author has not reviewed pull requests since July 2013
+- [IRC-js](https://gf3.github.io/IRC-js/) - ([source](https://github.com/gf3/IRC-js)) `JavaScript`
+  - website (irc-js.com) down
+  - major [unit test failures](https://github.com/gf3/IRC-js/issues/65)
+
+## Other
+
+- [node-wargames](https://github.com/mape/node-wargames) - visualization of a channel in a wargame theme `JavaScript`
+  - website (wargamez.mape.me) 502 bad gateway
+  - no commits since May 2011
