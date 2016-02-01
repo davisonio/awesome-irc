@@ -39,7 +39,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 *Interesting articles about IRC.*
 
-- [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack) - Drew DeVault's Blog
+- [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog
 - [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - QuakeNet
 - [IRC is dead, long live IRC](http://royal.pingdom.com/2012/04/24/irc-is-dead-long-live-irc/) - Royal Pingdom
 - [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](http://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - Alex Williams (TechCrunch)
