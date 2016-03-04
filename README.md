@@ -52,7 +52,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
   - [Web interface](https://github.com/BotBotMe/botbot-web) - ([demo](https://botbot.me/freenode/ghost/))
 - [Sopel](https://sopel.chat) - tonnes of ready made features, tutorial, fully documented ([source](https://github.com/sopel-irc/sopel)) `Python`
 - [phenny](http://inamidst.com/phenny/) - simple, module creation guide ([source](https://github.com/sbp/phenny)) `Python`
-- [IRCcat](http://www.metabrew.com/article/how-we-use-irc-at-lastfm) - simplifies messaging from shell scripts ([source](https://github.com/RJ/irccat)) `Java`
+- [IRCcat](https://github.com/RJ/irccat) - simplifies messaging from shell scripts `Java`
 - [Limnoria](https://github.com/ProgVal/Limnoria) - robust, user friendly, developer friendly `Python`
 - [Twitch Plays](https://github.com/aidanrt/twitch-plays) - takes input from the chat and presses the corresponding key `Python`
 - [Skybot](https://github.com/rmmh/skybot) - main goals are simplicity and power `Python`
