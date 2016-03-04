@@ -7,7 +7,7 @@ install:
   - gem install awesome_bot
 
 script:
-  - awesome_bot README.md --allow-dupe
+  - awesome_bot README.md --allow-dupe --white-list https://freenode.net/policy.shtml
 
 notifications:
   email: false
