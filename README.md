@@ -170,7 +170,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 *A collection of IRC servers is known as a network.*
 
-- [freenode](https://freenode.net) - the largest network, for free and open source software communities ([rules](https://freenode.net/policy.shtml))
+- [freenode](https://freenode.net) - the largest network, for free and open source software communities ([rules](https://freenode.net/policies))
 - [Snoonet](https://snoonet.org) - community of redditors and subreddits ([rules](https://snoonet.org/rules))
 
 ## Other
