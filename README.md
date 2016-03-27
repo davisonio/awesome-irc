@@ -37,7 +37,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 ## Articles
 
-*Interesting articles about IRC.*
+*Articles and blog posts about IRC.*
 
 - [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog
 - [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - QuakeNet
@@ -65,7 +65,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 ## Bouncers
 
-*So an IRC client can disconnect/reconnect without losing the chat session.*
+*Useful for disconnecting and reconnecting without losing the chat session.*
 
 ### Hosted
 
@@ -122,7 +122,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [aIRChat](https://github.com/zsck/aIRChat) - beautiful, modernized, browser-based `Web`
 - [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `OS X` `Windows`
 
-*Something else? Clients that are also bouncers are found [under bouncers](#bouncers).*
+*Something else? Clients that are also bouncers are found [here](#bouncers).*
 
 ## Daemons
 
@@ -138,7 +138,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 ## Frameworks
 
-*Helpful for developers who want to write bots or integrate IRC with their application.*
+*Helpful to write bots or integrate IRC with applications.*
 
 - [node-irc](https://github.com/martynsmith/node-irc) `JavaScript`
 - [Cinch](https://github.com/cinchrb/cinch) - quickly create bots with minimal effort `Ruby`
@@ -181,7 +181,6 @@ This is a list of tools, software & other resources related to the IRC chat prot
 ## More
 
 - [Awesome IRC - Archive](https://github.com/davisonio/awesome-irc/blob/master/archive.md)
-
 
 ## Authors
 
