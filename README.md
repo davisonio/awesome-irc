@@ -29,7 +29,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [Channels](#channels)
     - [Discovery](#discovery)
     - [Platforms](#platforms)
-    - [Programming Languages](#programming-languages)
+    - [Programming](#programming)
 - [Networks](#networks)
 - [Articles](#articles)
 - [Guides](#guides)
@@ -145,7 +145,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [##linux](http://linux.chat)@freenode - Linux support and discussion channel ([rules](http://linux.chat/channel-rules/))
 - [#ubuntu](https://help.ubuntu.com/community/InternetRelayChat)@freenode - official ubuntu support channel ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
 
-#### Programming Languages
+#### Programming
 
 - [#python](https://www.python.org/community/irc/)@freenode - good place for short python questions ([rules](https://www.python.org/psf/codeofconduct/))
 
