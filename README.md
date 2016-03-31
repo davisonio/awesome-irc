@@ -18,91 +18,24 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 ## Table of Contents
 
-- [Articles](#articles)
-- [Bots](#bots)
-- [Bouncers](#bouncers)
-  - [Self-hosted](#self-hosted)
-  - [Hosted](#hosted)
-- [Channels](#channels)
-  - [Discovery](#discovery)
-  - [Platforms](#platforms)
-  - [Programming Languages](#programming-languages)
 - [Clients](#clients)
+- [Bouncers](#bouncers)
+    - [Self-hosted](#self-hosted)
+    - [Hosted](#hosted)
 - [Daemons](#daemons)
+- [Bots](#bots)
 - [Frameworks](#frameworks)
-  - [Bridges](#bridges)
-- [Guides](#guides)
+    - [Bridges](#bridges)
+- [Channels](#channels)
+    - [Discovery](#discovery)
+    - [Platforms](#platforms)
+    - [Programming Languages](#programming-languages)
 - [Networks](#networks)
-- [Other](#other)
+- [Articles](#articles)
+- [Guides](#guides)
+- [Miscellaneous](#miscellaneous)
 
-## Articles
-
-*Articles and blog posts about IRC.*
-
-- [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog
-- [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - QuakeNet
-- [IRC is dead, long live IRC](http://royal.pingdom.com/2012/04/24/irc-is-dead-long-live-irc/) - Royal Pingdom
-- [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](http://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - Alex Williams (TechCrunch)
-
-## Bots
-
-*IRC users which provide services for humans, e.g. integrations or information.*
-
-- [BotBot.me](https://botbot.me) - makes IRC logs awesome ([source](https://github.com/BotBotMe/botbot-bot))
-  - [Web interface](https://github.com/BotBotMe/botbot-web) - ([demo](https://botbot.me/freenode/ghost/))
-- [Sopel](https://sopel.chat) - tonnes of ready made features, tutorial, fully documented ([source](https://github.com/sopel-irc/sopel)) `Python`
-- [phenny](http://inamidst.com/phenny/) - simple, module creation guide ([source](https://github.com/sbp/phenny)) `Python`
-- [IRCcat](https://github.com/RJ/irccat) - simplifies messaging from shell scripts `Java`
-- [Limnoria](https://github.com/ProgVal/Limnoria) - robust, user friendly, developer friendly `Python`
-- [Twitch Plays](https://github.com/aidanrt/twitch-plays) - takes input from the chat and presses the corresponding key `Python`
-- [Skybot](https://github.com/rmmh/skybot) - main goals are simplicity and power `Python`
-- [Jenni](https://github.com/myano/jenni) - `Python`
-- [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - responds to configured trigger phrases with quotes from notable women ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
-- [lazybot](http://lazybot.org) - user-friendly and powerful ([source](https://github.com/Raynes/lazybot)) `Clojure`
-- [IRC-BF](https://github.com/SirCmpwn/bf-irc-bot) - `Brainfuck`
-- [geordi](http://www.eelis.net/geordi/) - compiles and runs C++ code snippets ([source](https://github.com/Eelis/geordi)) `C++`
-- [CloudBot](https://github.com/CloudBotIRC/CloudBot) - simple, fast, expandable `Python`
-
-## Bouncers
-
-*Useful for disconnecting and reconnecting without losing the chat session.*
-
-### Hosted
-
-- [IRCCloud](https://www.irccloud.com) - group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message. (+client) (£0-£3.50/month)
-  - [iOS App](https://github.com/irccloud/ios) - official `Objective-C`
-  - [Android App](https://github.com/irccloud/android) - official `Java`
-  - [Nimbus](https://github.com/jnordberg/irccloudapp) - standalone client `OS X` `Objective-C`
-- [Grove](https://grove.io) - hosted IRC and so much more (+client) ($10-$125/month)
-- [Firrre](https://firrre.com) - authorized connections to Free / Libre / Open Source driven IRC Networks (Free)
-
-### Self-hosted
-
-- [ZNC](http://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
-- [IRCAnywhere](http://ircanywhere.com) - built for teams and gives control + privacy to you (alpha) ([source](https://github.com/ircanywhere/ircanywhere))
-- [TapChat](http://tapchatapp.com) - modern IRC ([source](https://github.com/tapchat/tapchat))
-  - [Android App](https://play.google.com/store/apps/details?id=com.tapchatapp.android) - ([source](https://github.com/tapchat/tapchat-android)) `Java`
-
-## Channels
-
-*IRC channels.*
-
-### Discovery
-
-- [irc.netsplit.de Search](http://irc.netsplit.de/channels/) - searches 563 different networks
-- [mibbit Search](https://search.mibbit.com) - searches networks listed [here](https://search.mibbit.com/networks)
-- [KiwiIRC Search](https://kiwiirc.com/search) - searches 318 different networks
-
-### Platforms
-
-- [##linux](http://linux.chat)@freenode - Linux support and discussion channel ([rules](http://linux.chat/channel-rules/))
-- [#ubuntu](https://help.ubuntu.com/community/InternetRelayChat)@freenode - official ubuntu support channel ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
-
-### Programming Languages
-
-- [#python](https://www.python.org/community/irc/)@freenode - good place for short python questions ([rules](https://www.python.org/psf/codeofconduct/))
-
-## Clients
+### Clients
 
 *You use these to connect to IRC.*
 
@@ -125,7 +58,27 @@ This is a list of tools, software & other resources related to the IRC chat prot
 
 *Something else? Clients that are also bouncers are found [here](#bouncers).*
 
-## Daemons
+### Bouncers
+
+*Useful for disconnecting and reconnecting without losing the chat session.*
+
+#### Hosted
+
+- [IRCCloud](https://www.irccloud.com) - group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message. (+client) (£0-£3.50/month)
+  - [iOS App](https://github.com/irccloud/ios) - official `Objective-C`
+  - [Android App](https://github.com/irccloud/android) - official `Java`
+  - [Nimbus](https://github.com/jnordberg/irccloudapp) - standalone client `OS X` `Objective-C`
+- [Grove](https://grove.io) - hosted IRC and so much more (+client) ($10-$125/month)
+- [Firrre](https://firrre.com) - authorized connections to Free / Libre / Open Source driven IRC Networks (Free)
+
+#### Self-hosted
+
+- [ZNC](http://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
+- [IRCAnywhere](http://ircanywhere.com) - built for teams and gives control + privacy to you (alpha) ([source](https://github.com/ircanywhere/ircanywhere))
+- [TapChat](http://tapchatapp.com) - modern IRC ([source](https://github.com/tapchat/tapchat))
+  - [Android App](https://play.google.com/store/apps/details?id=com.tapchatapp.android) - ([source](https://github.com/tapchat/tapchat-android)) `Java`
+
+### Daemons
 
 *Used for running your own IRC server or network.*
 
@@ -137,7 +90,26 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [anope](http://anope.org) - designed for flexibility and ease of use ([source](https://github.com/anope/anope))
 - [Hulk](https://github.com/chrisdone/hulk) - intended for private business use or hobby work `Haskell`
 
-## Frameworks
+### Bots
+
+*IRC users which provide services for humans, e.g. integrations or information.*
+
+- [BotBot.me](https://botbot.me) - makes IRC logs awesome ([source](https://github.com/BotBotMe/botbot-bot))
+  - [Web interface](https://github.com/BotBotMe/botbot-web) - ([demo](https://botbot.me/freenode/ghost/))
+- [Sopel](https://sopel.chat) - tonnes of ready made features, tutorial, fully documented ([source](https://github.com/sopel-irc/sopel)) `Python`
+- [phenny](http://inamidst.com/phenny/) - simple, module creation guide ([source](https://github.com/sbp/phenny)) `Python`
+- [IRCcat](https://github.com/RJ/irccat) - simplifies messaging from shell scripts `Java`
+- [Limnoria](https://github.com/ProgVal/Limnoria) - robust, user friendly, developer friendly `Python`
+- [Twitch Plays](https://github.com/aidanrt/twitch-plays) - takes input from the chat and presses the corresponding key `Python`
+- [Skybot](https://github.com/rmmh/skybot) - main goals are simplicity and power `Python`
+- [Jenni](https://github.com/myano/jenni) - `Python`
+- [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - responds to configured trigger phrases with quotes from notable women ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
+- [lazybot](http://lazybot.org) - user-friendly and powerful ([source](https://github.com/Raynes/lazybot)) `Clojure`
+- [IRC-BF](https://github.com/SirCmpwn/bf-irc-bot) - `Brainfuck`
+- [geordi](http://www.eelis.net/geordi/) - compiles and runs C++ code snippets ([source](https://github.com/Eelis/geordi)) `C++`
+- [CloudBot](https://github.com/CloudBotIRC/CloudBot) - simple, fast, expandable `Python`
+
+### Frameworks
 
 *Helpful to write bots or integrate IRC with applications.*
 
@@ -150,7 +122,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [slate-irc](https://github.com/slate/slate-irc) - plugin system, simple api, arbitrary input stream, debug support `JavaScript`
 - [Jerk](https://github.com/gf3/Jerk) - ridiculously simple to set-up and get going `JavaScript`
 
-### Bridges
+#### Bridges
 
 *Sends messages back and forth.*
 
@@ -158,7 +130,42 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [CamperVan](https://github.com/zerowidth/camper_van) - Campfire <-> IRC `Ruby`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat <-> IRC `C`
 
-## Guides
+### Channels
+
+*IRC channels.*
+
+#### Discovery
+
+- [irc.netsplit.de Search](http://irc.netsplit.de/channels/) - searches 563 different networks
+- [mibbit Search](https://search.mibbit.com) - searches networks listed [here](https://search.mibbit.com/networks)
+- [KiwiIRC Search](https://kiwiirc.com/search) - searches 318 different networks
+
+#### Platforms
+
+- [##linux](http://linux.chat)@freenode - Linux support and discussion channel ([rules](http://linux.chat/channel-rules/))
+- [#ubuntu](https://help.ubuntu.com/community/InternetRelayChat)@freenode - official ubuntu support channel ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
+
+#### Programming Languages
+
+- [#python](https://www.python.org/community/irc/)@freenode - good place for short python questions ([rules](https://www.python.org/psf/codeofconduct/))
+
+### Networks
+
+*A collection of IRC servers is known as a network.*
+
+- [freenode](https://freenode.net) - the largest network, for free and open source software communities ([rules](https://freenode.net/policies))
+- [Snoonet](https://snoonet.org) - community of redditors and subreddits ([rules](https://snoonet.org/rules))
+
+### Articles
+
+*Articles and blog posts about IRC.*
+
+- [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog
+- [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - QuakeNet
+- [IRC is dead, long live IRC](http://royal.pingdom.com/2012/04/24/irc-is-dead-long-live-irc/) - Royal Pingdom
+- [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](http://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - Alex Williams (TechCrunch)
+
+### Guides
 
 *How-to's, documentation and books.*
 
@@ -166,14 +173,7 @@ This is a list of tools, software & other resources related to the IRC chat prot
 - [How to Setup a Secure Private IRC Channel](https://botbot.me/how-to-setup-irc-channel/)
 - [BotBot's IRC Cheat Sheet](https://botbot.me/irc-guide/) - well-designed and with many well-answered questions
 
-## Networks
-
-*A collection of IRC servers is known as a network.*
-
-- [freenode](https://freenode.net) - the largest network, for free and open source software communities ([rules](https://freenode.net/policies))
-- [Snoonet](https://snoonet.org) - community of redditors and subreddits ([rules](https://snoonet.org/rules))
-
-## Other
+### Miscellaneous
 
 *Items which don't fit into the other categories*
 
