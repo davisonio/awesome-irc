@@ -191,7 +191,7 @@ The best ways to use this list are:
 This list also uses tags to help when searching the contents:
 
 - **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
-- **Platform** - `Web`, `OS X`, `Windows`, `Linux`, 'Chrome' etc.
+- **Platform** - `Web`, `OS X`, `Windows`, `Linux`, `Chrome` etc.
 
 ## More
 
