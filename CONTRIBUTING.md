@@ -3,7 +3,7 @@
 > **Contributions are welcome!** Here's how you can help. :raised_hands:
 
 <p align="center">
-<b><a href="#code">Content</a></b>
+<b><a href="#content">Content</a></b>
 ·
 <b><a href="#something-else">Something else</a></b>
 ·
