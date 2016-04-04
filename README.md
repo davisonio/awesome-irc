@@ -12,7 +12,7 @@
 <b><a href="#license--credits">License & Credits</a></b>
 </p>
 
-This is a list of tools, software & other resources related to the IRC chat protocol.
+This is a list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
 
 *"IRC: The one protocol that you can never resist"* - [Firrre](https://firrre.com)
 
