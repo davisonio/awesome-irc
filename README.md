@@ -5,6 +5,8 @@
 <p align="center">
 <b><a href="#table-of-contents">Table of Contents</a></b>
 ·
+<b><a href="#use">Use</a></b>
+·
 <b><a href="#more">More</a></b>
 ·
 <b><a href="#authors">Authors</a></b>
@@ -178,6 +180,18 @@ This is a list of tools, software & other resources related to the Internet Rela
 *Items which don't fit into the other categories*
 
 - [IRCv3 Working Group](http://ircv3.net) - a group of IRC client and server software authors working to enhance, improve, maintain and standardize the current IRC protocol ([source](https://github.com/ircv3/ircv3.github.io))
+
+## Use
+
+The best ways to use this list are:
+
+- by browing the [table of contents](#table-of-contents)
+- by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
+
+This list also uses tags to help when searching the contents:
+
+- **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
+- **Platform** - `Web`, `OS X`, `Windows`, `Linux`, 'Chrome' etc.
 
 ## More
 
