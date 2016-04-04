@@ -7,7 +7,7 @@ install:
   - gem install awesome_bot
 
 script:
-  - awesome_bot README.md --allow-dupe --white-list img.shields.io
+  - awesome_bot README.md --allow-dupe
 
 notifications:
   email: false
