@@ -6,15 +6,10 @@ Once the suggestions shown below have been resolved they can be moved into the m
 
 ## Table of Contents
 
-- [Bots](#bots)
 - [Clients](#clients)
+- [Bots](#bots)
 - [Frameworks](#frameworks)
-- [Other](#other)
-
-## Bots
-
-- [Tenyks](https://github.com/kyleterry/tenyks) - for hackers `Go`
-  - website (tenyks.io) certificate expired
+- [Miscellaneous](#miscellaneous)
 
 ## Clients
 
@@ -25,6 +20,11 @@ Once the suggestions shown below have been resolved they can be moved into the m
 - [X-Chat Aqua](https://xchataqua.github.io) - native front-end for xchat2 ([source](https://github.com/xchataqua/xchataqua))
   - some [reviews](https://itunes.apple.com/app/id447521961) show crashes and problems upon starting the application
 
+## Bots
+
+- [Tenyks](https://github.com/kyleterry/tenyks) - for hackers `Go`
+  - website (tenyks.io) certificate expired
+
 ## Frameworks
 
 - [Autumn](https://github.com/RISCfuture/autumn) - Easy, fresh, feature-rich `Ruby`
@@ -33,7 +33,7 @@ Once the suggestions shown below have been resolved they can be moved into the m
   - website (irc-js.com) down
   - major [unit test failures](https://github.com/gf3/IRC-js/issues/65)
 
-## Other
+## Miscellaneous
 
 - [node-wargames](https://github.com/mape/node-wargames) - visualization of a channel in a wargame theme `JavaScript`
   - website (wargamez.mape.me) 502 bad gateway
