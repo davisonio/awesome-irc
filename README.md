@@ -131,6 +131,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Slack <-> IRC `JavaScript`
 - [CamperVan](https://github.com/zerowidth/camper_van) - Campfire <-> IRC `Ruby`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat <-> IRC `C`
+- [teleirc](https://github.com/FruitieX/teleirc) - Telegram <-> IRC `JavaScript`
 
 ### Channels
 
