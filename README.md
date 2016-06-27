@@ -18,6 +18,8 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 *"IRC: The one protocol that you can never resist"* - [Firrre](https://firrre.com)
 
+![](https://davison.io/assets/img/awesome-irc-logo.png)
+
 ## Table of Contents
 
 - [Clients](#clients)
