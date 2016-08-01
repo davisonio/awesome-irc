@@ -1,4 +1,4 @@
-# [Awesome IRC](https://davison.io/awesome-irc/) :speech_balloon: [![](https://img.shields.io/travis/davisonio/awesome-irc.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-irc) [![](https://img.shields.io/gitter/room/davisonio/bacon.svg)](https://gitter.im/davisonio/bacon) [![](https://cdn.rawgit.com/sindresorhus/awesome/d200537/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome IRC](https://davison.io/awesome-irc/) :speech_balloon: [![](https://img.shields.io/travis/davisonio/awesome-irc.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-irc) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources
 
@@ -24,16 +24,16 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 - [Clients](#clients)
 - [Bouncers](#bouncers)
-    - [Self-hosted](#self-hosted)
-    - [Hosted](#hosted)
+  - [Self-hosted](#self-hosted)
+  - [Hosted](#hosted)
 - [Daemons](#daemons)
 - [Bots](#bots)
 - [Frameworks](#frameworks)
-    - [Bridges](#bridges)
+  - [Bridges](#bridges)
 - [Channels](#channels)
-    - [Discovery](#discovery)
-    - [Platforms](#platforms)
-    - [Programming](#programming)
+  - [Discovery](#discovery)
+  - [Platforms](#platforms)
+  - [Programming](#programming)
 - [Networks](#networks)
 - [Articles](#articles)
 - [Guides](#guides)
@@ -52,7 +52,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [CIRC](https://flackr.github.io/circ/) - uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy ([source](https://github.com/flackr/circ)) `Chrome`
 - [nirc](https://github.com/cjstewart88/nirc) - simple ([demo](https://nirc.herokuapp.com)) `Web`
 - [Quassel](http://quassel-irc.org) - distributed (clients can attach to and detach from a central core that stays permanently online ([source](https://github.com/quassel/quassel)) `Linux` `OS X` `Windows`
-- [Yaaic](http://www.yaaic.org/) - multi-server/channel support, SASL support, Smooth channel scrolling / swiping ([source](https://github.com/pocmo/Yaaic)) `Android`
+- [Yaaic](http://www.yaaic.org) - multi-server/channel support, SASL support, Smooth channel scrolling / swiping ([source](https://github.com/pocmo/Yaaic)) `Android`
 - [koko](https://github.com/noraesae/koko) - minimalistic design, VIM-like shortcuts and built on electron `Windows` `OS X`
 - [relay.js](https://github.com/Fauntleroy/relay.js) - focuses on making IRC less intimidating and easier to use ([demo](http://demo.relayjs.com)) `Web`
 - [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs`
