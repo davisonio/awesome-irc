@@ -147,7 +147,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 #### Platforms
 
-- [##linux](https://linux.chat)@freenode - Linux support and discussion channel ([rules](https://linux.chat/channel-rules/))
+- [##linux](https://linux.community)@freenode - Linux support and discussion channel ([rules](https://linux.community/channel-rules/))
 - [#ubuntu](https://help.ubuntu.com/community/InternetRelayChat)@freenode - official ubuntu support channel ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
 
 #### Programming
