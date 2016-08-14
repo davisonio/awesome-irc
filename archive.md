@@ -4,7 +4,7 @@ A list of resources which are not included in the [main list](https://github.com
 
 Once the suggestions shown below have been resolved they can be moved into the main list! :ok_hand:
 
-## Table of Contents
+## Contents
 
 - [Clients](#clients)
 - [Bots](#bots)

@@ -3,7 +3,7 @@
 > A curated list of awesome [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources
 
 <p align="center">
-<b><a href="#table-of-contents">Table of Contents</a></b>
+<b><a href="#contents">Contents</a></b>
 ·
 <b><a href="#use">Use</a></b>
 ·
@@ -20,7 +20,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 ![](https://davison.io/assets/img/awesome-irc-logo.png)
 
-## Table of Contents
+## Contents
 
 - [Clients](#clients)
 - [Bouncers](#bouncers)
