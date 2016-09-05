@@ -183,6 +183,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 *Items which don't fit into the other categories*
 
 - [IRCv3 Working Group](http://ircv3.net) - a group of IRC client and server software authors working to enhance, improve, maintain and standardize the current IRC protocol ([source](https://github.com/ircv3/ircv3.github.io))
+- [IRC LC](https://irc.lc) - create a URL that points to a channel on a IRC network
 
 ## Use
 
