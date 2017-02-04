@@ -7,8 +7,6 @@
 ·
 <b><a href="#use">Use</a></b>
 ·
-<b><a href="#more">More</a></b>
-·
 <b><a href="#authors">Authors</a></b>
 ·
 <b><a href="#license--credits">License & Credits</a></b>
@@ -196,10 +194,6 @@ This list also uses tags to help when searching the contents:
 
 - **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
 - **Platform** - `Web`, `OS X`, `Windows`, `Linux`, `Chrome` etc.
-
-## More
-
-- [Awesome IRC - Archive](https://github.com/davisonio/awesome-irc/blob/master/archive.md)
 
 ## Authors
 
