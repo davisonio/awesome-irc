@@ -12,7 +12,7 @@
 
 ## Content
 
-For additions, check that it hasn't been submitted already & check if it's in the [archive](https://github.com/davisonio/awesome-irc/blob/master/archive.md)
+For additions, check that it hasn't been submitted already.
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the repository and [clone](https://help.github.com/articles/cloning-a-repository/) your fork.
 
