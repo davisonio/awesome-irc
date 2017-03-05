@@ -12,7 +12,7 @@
 
 ## Content
 
-For additions, check that it hasn't been submitted already.
+For additions, check that it hasn't been submitted already and that it is suitable for this list.
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the repository and [clone](https://help.github.com/articles/cloning-a-repository/) your fork.
 
