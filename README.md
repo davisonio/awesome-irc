@@ -35,6 +35,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [Networks](#networks)
 - [Articles](#articles)
 - [Guides](#guides)
+- [Protocol](#protocol)
 - [Miscellaneous](#miscellaneous)
 
 ### Clients
@@ -176,11 +177,21 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [How to Setup a Secure Private IRC Channel](https://botbot.me/how-to-setup-irc-channel/)
 - [BotBot's IRC Cheat Sheet](https://botbot.me/irc-guide/) - well-designed and with many well-answered questions
 
+### Protocol
+
+*Information and resources about the IRC protocol itself.*
+
+- [IRCv3 Working Group](http://ircv3.net) - a group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol ([source](https://github.com/ircv3/ircv3.github.io))
+- [Modern IRC Documents](http://modern.ircdocs.horse/) - an attempt to write an update to the original IRC protocol documentation ([source](https://github.com/ircdocs/modern-irc))
+- [IRC Definition Files](http://defs.ircdocs.horse/) - lists of numerics, modes, ISUPPORT tokens and other protocol details ([source](https://github.com/ircdocs/irc-defs))
+- [grawity's IRC docs](https://github.com/grawity/irc-docs) - collection of misc IRC protocol documentation
+- [Protocol Statistics](http://stats.ircdocs.horse/) - statistics around the server software in use on networks today ([source](https://github.com/ircdocs/irc-stats))
+- [IRC Parser Tests](https://github.com/DanielOaks/irc-parser-tests) - a CC0 set of test suites, to ensure IRC message parsers are consistent
+
 ### Miscellaneous
 
 *Items which don't fit into the other categories*
 
-- [IRCv3 Working Group](http://ircv3.net) - a group of IRC client and server software authors working to enhance, improve, maintain and standardize the current IRC protocol ([source](https://github.com/ircv3/ircv3.github.io))
 - [IRC LC](https://irc.lc) - create a URL that points to a channel on a IRC network
 
 ## Use
