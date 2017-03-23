@@ -45,20 +45,20 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 - [Shout](http://shout-irc.com) - responsive, self-hosted & support for multiple users ([source](https://github.com/erming/shout), [demo](http://demo.shout-irc.com)) `Web`
 - [Komanda](http://komanda.io) - designed for people who write code (beta) ([source](https://github.com/mephux/komanda)) `Linux`
-- [Textual](https://www.codeux.com/textual/) - very customizable, ZNC integration, iCloud sync ($4.99) ([source](https://github.com/Codeux-Software/Textual)) `OS X`
-- [LimeChat](http://limechat.net/mac/) - one window for multiple servers, keyboard shortcuts, fast & stable ([source](https://github.com/psychs/limechat)) `OS X`
-- [HexChat](https://hexchat.github.io) - based on XChat, easy to use, spell check & multiple languages ([source](https://github.com/hexchat/hexchat)) `Windows` `OS X` `Linux`
+- [Textual](https://www.codeux.com/textual/) - very customizable, ZNC integration, iCloud sync ($4.99) ([source](https://github.com/Codeux-Software/Textual)) `macOS`
+- [LimeChat](http://limechat.net/mac/) - one window for multiple servers, keyboard shortcuts, fast & stable ([source](https://github.com/psychs/limechat)) `macOS`
+- [HexChat](https://hexchat.github.io) - based on XChat, easy to use, spell check & multiple languages ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
 - [Kiwi IRC](https://kiwiirc.com) - hand crafted with powerful features & text styling ([source](https://github.com/prawnsalad/KiwiIRC), [demo](https://kiwiirc.com/client)) `Web`
 - [CIRC](https://flackr.github.io/circ/) - uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy ([source](https://github.com/flackr/circ)) `Chrome`
 - [nirc](https://github.com/cjstewart88/nirc) - simple ([demo](https://nirc.herokuapp.com)) `Web`
-- [Quassel](http://quassel-irc.org) - distributed (clients can attach to and detach from a central core that stays permanently online ([source](https://github.com/quassel/quassel)) `Linux` `OS X` `Windows`
+- [Quassel](http://quassel-irc.org) - distributed (clients can attach to and detach from a central core that stays permanently online ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
 - [Yaaic](https://www.yaaic.org) - multi-server/channel support, SASL support, Smooth channel scrolling / swiping ([source](https://github.com/pocmo/Yaaic)) `Android`
-- [koko](https://github.com/KokoIRC/koko) - minimalistic design, VIM-like shortcuts and built on electron `Windows` `OS X`
+- [koko](https://github.com/KokoIRC/koko) - minimalistic design, VIM-like shortcuts and built on electron `Windows` `macOS`
 - [relay.js](https://github.com/Fauntleroy/relay.js) - focuses on making IRC less intimidating and easier to use ([demo](http://demo.relayjs.com)) `Web`
 - [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs`
-- [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `OS X`
+- [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
 - [aIRChat](https://github.com/zsck/aIRChat) - beautiful, modernized, browser-based `Web`
-- [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `OS X` `Windows`
+- [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
 
 *More? Clients that include bouncers are found [below](#bouncers).*
 
@@ -71,7 +71,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [IRCCloud](https://www.irccloud.com) - group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message. (+client) (£0-£3.50/month)
   - [iOS App](https://github.com/irccloud/ios) - official `Objective-C`
   - [Android App](https://github.com/irccloud/android) - official `Java`
-  - [Nimbus](https://github.com/jnordberg/irccloudapp) - standalone client `OS X` `Objective-C`
+  - [Nimbus](https://github.com/jnordberg/irccloudapp) - standalone client `macOS` `Objective-C`
 - [Grove](https://grove.io) - hosted IRC and so much more (+client) ($10-$125/month)
 - [Firrre](https://firrre.com) - authorized connections to Free / Libre / Open Source driven IRC Networks (Free)
 
@@ -210,7 +210,7 @@ The best ways to use this list are:
 This list also uses tags to help when searching the contents:
 
 - **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
-- **Platform** - `Web`, `OS X`, `Windows`, `Linux`, `Chrome` etc.
+- **Platform** - `Web`, `macOS`, `Windows`, `Linux`, `Chrome` etc.
 
 ## Authors
 
