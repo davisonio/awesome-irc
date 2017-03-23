@@ -7,7 +7,7 @@ install:
   - gem install awesome_bot
 
 script:
-  - awesome_bot README.md --allow-dupe
+  - awesome_bot README.md --allow-dupe --white-list irc.lc
 
 notifications:
   email: false
