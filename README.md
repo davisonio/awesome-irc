@@ -91,10 +91,11 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [miniircd](https://github.com/jrosdahl/miniircd) - very simple and limited
 - [ngIRCd](https://ngircd.barton.de) - portable and lightweight for small or private networks ([source](https://github.com/ngircd/ngircd))
 - [Hulk](https://github.com/chrisdone/hulk) - intended for private business use or hobby work `Haskell`
+- [Oragono](https://oragono.io/) - modern, experimental server that's portable and designed around specifications ([source](https://github.com/DanielOaks/oragono))
 
 ### Services
 
-*Used to provide user accounts and bots like NickServ/ChanServ to your network.
+*Used to provide user accounts and bots like NickServ/ChanServ to your network.*
 
 - [Atheme](http://atheme.net) - designed for large networks with high scalability requirements ([source](https://github.com/atheme/atheme))
 - [anope](http://anope.org) - designed for flexibility and ease of use ([source](https://github.com/anope/anope))
