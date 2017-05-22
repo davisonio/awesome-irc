@@ -97,7 +97,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 *Used to provide user accounts and bots like NickServ/ChanServ to your network.*
 
-- [Atheme](http://atheme.net) - designed for large networks with high scalability requirements ([source](https://github.com/atheme/atheme))
+- [Atheme](https://atheme.github.io) - designed for large networks with high scalability requirements ([source](https://github.com/atheme/atheme))
 - [anope](http://anope.org) - designed for flexibility and ease of use ([source](https://github.com/anope/anope))
 
 ### Bots
