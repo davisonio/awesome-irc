@@ -43,7 +43,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 *You use these to connect to IRC.*
 
-- [Shout](http://shout-irc.com) - responsive, self-hosted & support for multiple users ([source](https://github.com/erming/shout), [demo](http://demo.shout-irc.com)) `Web`
+- [TheLounge](https://thelounge.github.io/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/lounge), [demo](https://avatar.playat.ch:1000)) `Web`
 - [Komanda](http://komanda.io) - designed for people who write code (beta) ([source](https://github.com/mephux/komanda)) `Linux`
 - [Textual](https://www.codeux.com/textual/) - very customizable, ZNC integration, iCloud sync ($4.99) ([source](https://github.com/Codeux-Software/Textual)) `macOS`
 - [LimeChat](http://limechat.net/mac/) - one window for multiple servers, keyboard shortcuts, fast & stable ([source](https://github.com/psychs/limechat)) `macOS`
