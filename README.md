@@ -43,7 +43,6 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 *You use these to connect to IRC.*
 
-- [TheLounge](https://thelounge.github.io/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/lounge), [demo](https://avatar.playat.ch:1000)) `Web`
 - [Komanda](http://komanda.io) - designed for people who write code (beta) ([source](https://github.com/mephux/komanda)) `Linux`
 - [Textual](https://www.codeux.com/textual/) - very customizable, ZNC integration, iCloud sync ($4.99) ([source](https://github.com/Codeux-Software/Textual)) `macOS`
 - [LimeChat](http://limechat.net/mac/) - one window for multiple servers, keyboard shortcuts, fast & stable ([source](https://github.com/psychs/limechat)) `macOS`
@@ -77,10 +76,12 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 #### Self-hosted
 
+- [Convos](https://convos.by/) - Always online web IRC client ([source](https://github.com/Nordaaker/convos), [demo](http://demo.convos.by/)) `Perl` `JavaScript` `Web`
 - [ZNC](http://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
 - [IRCAnywhere](http://ircanywhere.com) - built for teams and gives control + privacy to you (alpha) ([source](https://github.com/ircanywhere/ircanywhere))
 - [TapChat](http://tapchatapp.com) - modern IRC ([source](https://github.com/tapchat/tapchat))
   - [Android App](https://github.com/tapchat/tapchat-android) - source only `Java`
+- [TheLounge](https://thelounge.github.io/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/lounge), [demo](https://avatar.playat.ch:1000)) `JavaScript` `Node.js` `Web`
 
 ### Daemons
 
