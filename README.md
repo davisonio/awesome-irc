@@ -93,6 +93,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [ngIRCd](https://ngircd.barton.de) - portable and lightweight for small or private networks ([source](https://github.com/ngircd/ngircd))
 - [Hulk](https://github.com/chrisdone/hulk) - intended for private business use or hobby work `Haskell`
 - [Oragono](https://oragono.io/) - modern, experimental server that's portable and designed around specifications ([source](https://github.com/oragono/oragono))
+- [charybdis](https://github.com/charybdis-ircd/charybdis) - scalable IRCv3 server
 
 ### Services
 
@@ -167,6 +168,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 - [freenode](https://freenode.net) - the largest network, for free and open source software communities ([rules](https://freenode.net/policies))
 - [Snoonet](https://snoonet.org) - community of redditors and subreddits ([rules](https://snoonet.org/rules))
+- [OFTC](https://oftc.net/) - commnuity for free and open source software communities
 
 ### Articles
 
