@@ -58,6 +58,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
 - [aIRChat](https://github.com/zsck/aIRChat) - beautiful, modernized, browser-based `Web`
 - [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
+- [Konversation](https://konversation.kde.org) - user-friendly client built on the KDE Platform ([source](https://github.com/KDE/konversation)) `Linux`
 
 *More? Clients that include bouncers are found [below](#bouncers).*
 
