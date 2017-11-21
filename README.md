@@ -47,7 +47,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [Textual](https://www.codeux.com/textual/) - very customizable, ZNC integration, iCloud sync ($4.99) ([source](https://github.com/Codeux-Software/Textual)) `macOS`
 - [LimeChat](http://limechat.net/mac/) - one window for multiple servers, keyboard shortcuts, fast & stable ([source](https://github.com/psychs/limechat)) `macOS`
 - [HexChat](https://hexchat.github.io) - based on XChat, easy to use, spell check & multiple languages ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
-- [Kiwi IRC](https://kiwiirc.com) - a powerful modern IRC messenger for the web ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient)) `Web`
+- [Kiwi IRC](https://kiwiirc.com) - a powerful modern IRC messenger for the web ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
 - [CIRC](https://flackr.github.io/circ/) - uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy ([source](https://github.com/flackr/circ)) `Chrome`
 - [nirc](https://github.com/cjstewart88/nirc) - simple ([demo](https://nirc.herokuapp.com)) `Web`
 - [Quassel](http://quassel-irc.org) - distributed (clients can attach to and detach from a central core that stays permanently online ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
