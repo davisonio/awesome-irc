@@ -60,6 +60,8 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
 - [Konversation](https://konversation.kde.org) - user-friendly client built on the KDE Platform ([source](https://github.com/KDE/konversation)) `Linux`
 - [sic](https://tools.suckless.org/sic/) - **s**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
+- [Weechat](https://weechat.org) - Fast, light, and extensible chat client. `Linux` `BSD` `macOS`
+  `Windows`
 
 *More? Clients that include bouncers are found [below](#bouncers).*
 
