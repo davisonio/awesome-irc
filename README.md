@@ -145,6 +145,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat <-> IRC `C`
 - [teleirc](https://github.com/FruitieX/teleirc) - Telegram <-> IRC `JavaScript`
 - [toxirc](https://github.com/endoffile78/toxirc) - Tox <-> IRC `C`
+- [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) <-> IRC `Javascript`
 
 ### Channels
 
