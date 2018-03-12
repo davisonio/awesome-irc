@@ -78,12 +78,12 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 #### Self-hosted
 
-- [Convos](https://convos.by/) - Always online web IRC client ([source](https://github.com/Nordaaker/convos), [demo](http://demo.convos.by/)) `Perl` `JavaScript` `Web`
+- [Convos](https://convos.by/) - Always online web IRC client ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by/)) `Perl` `JavaScript` `Web`
 - [ZNC](http://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
 - [IRCAnywhere](http://ircanywhere.com) - built for teams and gives control + privacy to you (alpha) ([source](https://github.com/ircanywhere/ircanywhere))
 - [TapChat](http://tapchatapp.com) - modern IRC ([source](https://github.com/tapchat/tapchat))
   - [Android App](https://github.com/tapchat/tapchat-android) - source only `Java`
-- [TheLounge](https://thelounge.github.io/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/lounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
+- [TheLounge](http://thelounge.chat/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
 
 ### Daemons
 
