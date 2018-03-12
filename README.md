@@ -96,6 +96,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [Hulk](https://github.com/chrisdone/hulk) - intended for private business use or hobby work `Haskell`
 - [Oragono](https://oragono.io/) - modern, experimental server that's portable and designed around specifications ([source](https://github.com/oragono/oragono))
 - [charybdis](https://github.com/charybdis-ircd/charybdis) - scalable IRCv3 server
+- [RobustIRC](https://robustirc.net/) - IRC server without netsplits
 
 ### Services
 
