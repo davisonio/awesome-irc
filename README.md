@@ -84,6 +84,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [TapChat](http://tapchatapp.com) - modern IRC ([source](https://github.com/tapchat/tapchat))
   - [Android App](https://github.com/tapchat/tapchat-android) - source only `Java`
 - [TheLounge](https://thelounge.github.io/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/lounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
+- [BIP IRC Proxy](https://bip.milkypond.org/) - Lightweight Open Source IRC proxying, always online, multiple users/networks, logging and multi-client backlogging, TLS, password/SSL cert authentication, IRC admin interface, Debian packaged, recursive acronym ! ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 
 ### Daemons
 
