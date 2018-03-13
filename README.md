@@ -135,6 +135,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [pyaib](https://github.com/facebook/pyaib) - easy to use framework for writing bots `Python`
 - [slate-irc](https://github.com/slate/slate-irc) - plugin system, simple api, arbitrary input stream, debug support `JavaScript`
 - [Jerk](https://github.com/gf3/Jerk) - ridiculously simple to set-up and get going `JavaScript`
+- [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API ( updated fork of [PircBot](http://www.jibble.org/pircbot.php)) `Java`
 
 #### Bridges
 
