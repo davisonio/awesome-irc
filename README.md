@@ -126,6 +126,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [IRC-BF](https://github.com/SirCmpwn/bf-irc-bot) - `Brainfuck`
 - [geordi](https://github.com/Eelis/geordi) - compiles and runs C++ code snippets `C++`
 - [CloudBot](https://github.com/CloudBotIRC/CloudBot) - simple, fast, expandable `Python`
+- [yossarian-bot](https://github.com/woodruffw/yossarian-bot) - large default plugin set, Cinch-based `Ruby`
 - [helga](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols `Python`
 
 ### Frameworks
