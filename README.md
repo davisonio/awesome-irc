@@ -213,7 +213,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 The best ways to use this list are:
 
-- by browing the [contents](#contents)
+- by browsing the [contents](#contents)
 - by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
 This list also uses tags to help when searching the contents:
