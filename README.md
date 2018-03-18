@@ -86,7 +86,6 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [IRCAnywhere](http://ircanywhere.com) - built for teams and gives control + privacy to you (alpha) ([source](https://github.com/ircanywhere/ircanywhere))
 - [TapChat](http://tapchatapp.com) - modern IRC ([source](https://github.com/tapchat/tapchat))
   - [Android App](https://github.com/tapchat/tapchat-android) - source only `Java`
-- [TheLounge](https://thelounge.github.io/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/lounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
 - [BIP IRC Proxy](https://bip.milkypond.org/) - Always online, lightweight and secure Open Source IRC proxying with backlogging ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 - [TheLounge](https://thelounge.chat/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
 
