@@ -134,7 +134,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 *Helpful to write bots or integrate IRC with applications.*
 
-- [node-irc](https://github.com/martynsmith/node-irc) `JavaScript`
+- [node-irc](https://github.com/Throne3d/node-irc) `JavaScript`
 - [Cinch](https://github.com/cinchrb/cinch) - quickly create bots with minimal effort `Ruby`
 - [goirc](https://github.com/fluffle/goirc) - event-based, stateful, lacking documentation `Go`
 - [Hubot IRC Adapter](https://github.com/nandub/hubot-irc) - the IRC adapter for hubot `JavaScript`
