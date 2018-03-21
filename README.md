@@ -143,6 +143,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [slate-irc](https://github.com/slate/slate-irc) - plugin system, simple api, arbitrary input stream, debug support `JavaScript`
 - [Jerk](https://github.com/gf3/Jerk) - ridiculously simple to set-up and get going `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)) `Java`
+- [IRC::Client](https://github.com/zoffixznet/perl6-IRC-Client) - `Perl6` based extendable IRC client framework
 
 #### Bridges
 
