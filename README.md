@@ -143,6 +143,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 *Sends messages back and forth.*
 
+- [discord-irc](https://github.com/reactiflux/discord-irc) - Discord <-> IRC `JavaScript`
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Slack <-> IRC `JavaScript`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat <-> IRC `C`
 - [teleirc](https://github.com/FruitieX/teleirc) - Telegram <-> IRC `JavaScript`
