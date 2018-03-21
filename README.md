@@ -49,14 +49,12 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [HexChat](https://hexchat.github.io) - based on XChat, easy to use, spell check & multiple languages ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
 - [Kiwi IRC](https://kiwiirc.com) - a powerful modern IRC messenger for the web ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
 - [CIRC](https://flackr.github.io/circ/) - uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy ([source](https://github.com/flackr/circ)) `Chrome`
-- [nirc](https://github.com/cjstewart88/nirc) - simple ([demo](https://nirc.herokuapp.com)) `Web`
 - [Quassel](https://quassel-irc.org) - distributed (clients can attach to and detach from a central core that stays permanently online ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
 - [Yaaic](https://www.yaaic.org) - multi-server/channel support, SASL support, Smooth channel scrolling / swiping ([source](https://github.com/pocmo/Yaaic)) `Android`
 - [koko](https://github.com/KokoIRC/koko) - minimalistic design, VIM-like shortcuts and built on electron `Windows` `macOS`
 - [relay.js](https://github.com/Fauntleroy/relay.js) - focuses on making IRC less intimidating and easier to use ([demo](http://demo.relayjs.com)) `Web`
 - [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs`
 - [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-- [aIRChat](https://github.com/zsck/aIRChat) - beautiful, modernized, browser-based `Web`
 - [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
 - [Konversation](https://konversation.kde.org) - user-friendly client built on the KDE Platform ([source](https://github.com/KDE/konversation)) `Linux`
 - [sic](https://tools.suckless.org/sic/) - **s**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
@@ -83,9 +81,6 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 - [Convos](https://convos.by/) - Always online web IRC client ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by/)) `Perl` `JavaScript` `Web`
 - [ZNC](http://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
-- [IRCAnywhere](http://ircanywhere.com) - built for teams and gives control + privacy to you (alpha) ([source](https://github.com/ircanywhere/ircanywhere))
-- [TapChat](http://tapchatapp.com) - modern IRC ([source](https://github.com/tapchat/tapchat))
-  - [Android App](https://github.com/tapchat/tapchat-android) - source only `Java`
 - [BIP IRC Proxy](https://bip.milkypond.org/) - Always online, lightweight and secure Open Source IRC proxying with backlogging ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 - [TheLounge](https://thelounge.chat/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
 
@@ -141,7 +136,6 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [go-ircevent](https://github.com/thoj/go-ircevent) - event-based `Go`
 - [pyaib](https://github.com/facebook/pyaib) - easy to use framework for writing bots `Python`
 - [slate-irc](https://github.com/slate/slate-irc) - plugin system, simple api, arbitrary input stream, debug support `JavaScript`
-- [Jerk](https://github.com/gf3/Jerk) - ridiculously simple to set-up and get going `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)) `Java`
 - [IRC::Client](https://github.com/zoffixznet/perl6-IRC-Client) - `Perl6` based extendable IRC client framework
 
@@ -150,7 +144,6 @@ This is a list of tools, software & other resources related to the Internet Rela
 *Sends messages back and forth.*
 
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Slack <-> IRC `JavaScript`
-- [CamperVan](https://github.com/zerowidth/camper_van) - Campfire <-> IRC `Ruby`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat <-> IRC `C`
 - [teleirc](https://github.com/FruitieX/teleirc) - Telegram <-> IRC `JavaScript`
 - [toxirc](https://github.com/endoffile78/toxirc) - Tox <-> IRC `C`
