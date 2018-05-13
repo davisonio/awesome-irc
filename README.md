@@ -149,6 +149,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [teleirc](https://github.com/FruitieX/teleirc) - Telegram <-> IRC `JavaScript`
 - [toxirc](https://github.com/endoffile78/toxirc) - Tox <-> IRC `C`
 - [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) <-> IRC `Javascript`
+- [whapp-irc](https://github.com/lieuwex/whapp-irc) - WhatsApp Web <-> IRC `Go`
 
 ### Channels
 
