@@ -61,6 +61,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [Colloquy](http://colloquy.info) - AppleScript-enabled IRC client `macOS`
 - [irssi](https://irssi.org/) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
 - [WeeChat](https://weechat.org/) - a fast, light and extensible chat client ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
+- [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - feature-full, actively maintained Android IRC client ([source](https://github.com/MCMrARM/revolution-irc)) `Android`
 
 *More? Clients that include bouncers are found [below](#bouncers).*
 
