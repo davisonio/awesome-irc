@@ -1,17 +1,12 @@
 language: ruby
 
-node_js:
-  - 'node'
-
 rvm:
   - 2.2
 
 install:
   - gem install awesome_bot
-  - npm install --global awesome-lint
 
 script:
-  - awesome-lint
   - awesome_bot readme.md --allow-dupe --white-list irc.lc,img.shields.io
 
 notifications:
