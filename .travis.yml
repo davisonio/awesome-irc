@@ -5,9 +5,11 @@ rvm:
 
 install:
   - gem install awesome_bot
+  - npm install awesome-lint
 
 script:
-  - awesome_bot README.md --allow-dupe --white-list irc.lc,img.shields.io
+  - awesome-lint
+  - awesome_bot readme.md --allow-dupe --white-list irc.lc,img.shields.io
 
 notifications:
   email: false
