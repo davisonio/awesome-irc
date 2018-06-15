@@ -49,8 +49,8 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - [Konversation](https://konversation.kde.org) - user-friendly client built on the KDE Platform ([source](https://github.com/KDE/konversation)) `Linux`
 - [sic](https://tools.suckless.org/sic/) - **s**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
 - [Colloquy](http://colloquy.info) - AppleScript-enabled IRC client `macOS`
-- [irssi](https://irssi.org/) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
-- [WeeChat](https://weechat.org/) - a fast, light and extensible chat client ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
+- [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
+- [WeeChat](https://weechat.org) - a fast, light and extensible chat client ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - feature-full, actively maintained Android IRC client ([source](https://github.com/MCMrARM/revolution-irc)) `Android`
 
 *More? Clients that include bouncers are found [below](#bouncers).*
@@ -70,10 +70,10 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 #### Self-hosted
 
-- [Convos](https://convos.by/) - Always online web IRC client ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by/)) `Perl` `JavaScript` `Web`
+- [Convos](https://convos.by) - Always online web IRC client ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by/)) `Perl` `JavaScript` `Web`
 - [ZNC](https://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
-- [BIP IRC Proxy](https://bip.milkypond.org/) - Always online, lightweight and secure Open Source IRC proxying with backlogging ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
-- [TheLounge](https://thelounge.chat/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
+- [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
+- [TheLounge](https://thelounge.chat) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
 
 ### Daemons
 
@@ -84,9 +84,9 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - [miniircd](https://github.com/jrosdahl/miniircd) - very simple and limited
 - [ngIRCd](https://ngircd.barton.de) - portable and lightweight for small or private networks ([source](https://github.com/ngircd/ngircd))
 - [Hulk](https://github.com/chrisdone/hulk) - intended for private business use or hobby work `Haskell`
-- [Oragono](https://oragono.io/) - modern, experimental server that's portable and designed around specifications ([source](https://github.com/oragono/oragono))
+- [Oragono](https://oragono.io) - modern, experimental server that's portable and designed around specifications ([source](https://github.com/oragono/oragono))
 - [charybdis](https://github.com/charybdis-ircd/charybdis) - scalable IRCv3 server
-- [RobustIRC](https://robustirc.net/) - IRC server without netsplits
+- [RobustIRC](https://robustirc.net) - IRC server without netsplits
 
 ### Services
 
@@ -167,7 +167,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 - [freenode](https://freenode.net) - the largest network, for free and open source software communities ([rules](https://freenode.net/policies))
 - [Snoonet](https://snoonet.org) - community of redditors and subreddits ([rules](https://snoonet.org/rules))
-- [OFTC](https://oftc.net/) - commnuity for free and open source software communities
+- [OFTC](https://oftc.net) - commnuity for free and open source software communities
 
 ### Articles
 
@@ -191,10 +191,10 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 *Information and resources about the IRC protocol itself.*
 
 - [IRCv3 Working Group](https://ircv3.net) - a group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol ([source](https://github.com/ircv3/ircv3.github.io))
-- [Modern IRC Documents](http://modern.ircdocs.horse/) - an attempt to write an update to the original IRC protocol documentation ([source](https://github.com/ircdocs/modern-irc))
-- [IRC Definition Files](http://defs.ircdocs.horse/) - lists of numerics, modes, ISUPPORT tokens and other protocol details ([source](https://github.com/ircdocs/irc-defs))
+- [Modern IRC Documents](http://modern.ircdocs.horse) - an attempt to write an update to the original IRC protocol documentation ([source](https://github.com/ircdocs/modern-irc))
+- [IRC Definition Files](http://defs.ircdocs.horse) - lists of numerics, modes, ISUPPORT tokens and other protocol details ([source](https://github.com/ircdocs/irc-defs))
 - [grawity's IRC docs](https://github.com/grawity/irc-docs) - collection of misc IRC protocol documentation
-- [Protocol Statistics](http://stats.ircdocs.horse/) - statistics around the server software in use on networks today ([source](https://github.com/ircdocs/irc-stats))
+- [Protocol Statistics](http://stats.ircdocs.horse) - statistics around the server software in use on networks today ([source](https://github.com/ircdocs/irc-stats))
 - [IRC Parser Tests](https://github.com/DanielOaks/irc-parser-tests) - a CC0 set of test suites, to ensure IRC message parsers are consistent
 
 ### Miscellaneous
