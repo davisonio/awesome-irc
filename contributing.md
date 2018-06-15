@@ -1,7 +1,5 @@
 # Contributing
 
-> **Contributions are welcome!** Here's how you can help.
-
 If you're adding something new, make sure that it is [formatted correctly](#list-format) and be sure to explain why it is awesome. 😎
   
 ## List Format 
