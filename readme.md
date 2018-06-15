@@ -1,22 +1,12 @@
 # [Awesome IRC](https://davison.io/awesome-irc/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources
+> A curated list of [awesome](https://github.com/sindresorhus/awesome) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources
 
-<p align="center">
-<b><a href="#contents">Contents</a></b>
-·
-<b><a href="#use">Use</a></b>
-·
-<b><a href="#authors">Authors</a></b>
-·
-<b><a href="#license--credits">License & Credits</a></b>
-</p>
-
-This is a list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
+A list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
 
 *"IRC: The one protocol that you can never resist"* - [Firrre](https://firrre.com)
 
-![](https://davison.io/assets/img/awesome-irc-logo.png)
+![Logo](https://davison.io/assets/img/awesome-irc-logo.png)
 
 ## Contents
 
@@ -43,7 +33,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 *You use these to connect to IRC.*
 
-- [Komanda](http://komanda.io) - designed for people who write code (beta) ([source](https://github.com/mephux/komanda)) `Linux`
+- [Komanda](https://komanda.io) - designed for people who write code (beta) ([source](https://github.com/mephux/komanda)) `Linux`
 - [Textual](https://www.codeux.com/textual/) - very customizable, ZNC integration, iCloud sync ($4.99) ([source](https://github.com/Codeux-Software/Textual)) `macOS`
 - [LimeChat](http://limechat.net/mac/) - one window for multiple servers, keyboard shortcuts, fast & stable ([source](https://github.com/psychs/limechat)) `macOS`
 - [HexChat](https://hexchat.github.io) - based on XChat, easy to use, spell check & multiple languages ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
@@ -81,7 +71,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 #### Self-hosted
 
 - [Convos](https://convos.by/) - Always online web IRC client ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by/)) `Perl` `JavaScript` `Web`
-- [ZNC](http://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
+- [ZNC](https://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
 - [BIP IRC Proxy](https://bip.milkypond.org/) - Always online, lightweight and secure Open Source IRC proxying with backlogging ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 - [TheLounge](https://thelounge.chat/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
 
@@ -103,7 +93,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 *Used to provide user accounts and bots like NickServ/ChanServ to your network.*
 
 - [Atheme](https://atheme.github.io) - designed for large networks with high scalability requirements ([source](https://github.com/atheme/atheme))
-- [anope](http://anope.org) - designed for flexibility and ease of use ([source](https://github.com/anope/anope))
+- [anope](https://anope.org) - designed for flexibility and ease of use ([source](https://github.com/anope/anope))
 
 ### Bots
 
@@ -225,18 +215,16 @@ This list also uses tags to help when searching the contents:
 - **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
 - **Platform** - `Web`, `macOS`, `Windows`, `Linux`, `Chrome` etc.
 
-## Authors
+## Credits
 
 **[Craig Davison](https://davison.io)**
+[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+...and [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors).
 
-With many thanks to the [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors). :clap:
+**[Contributions are welcome!](https://github.com/davisonio/awesome-irc/blob/master/contributing.md)**
 
-**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-irc/blob/master/CONTRIBUTING.md). :raised_hands:
-
-## License & Credits
+## License
 
 Unless otherwise stated:
-
-- Copyright © 2016+ [Craig Davison](https://davison.io). Released under the [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+- Copyright © 2016+ [Craig Davison](https://davison.io). Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
