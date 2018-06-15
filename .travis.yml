@@ -1,11 +1,14 @@
 language: ruby
 
+node_js:
+  - 'node'
+
 rvm:
   - 2.2
 
 install:
   - gem install awesome_bot
-  - npm install awesome-lint
+  - npm install --global awesome-lint
 
 script:
   - awesome-lint
