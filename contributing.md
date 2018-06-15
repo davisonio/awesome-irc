@@ -6,4 +6,7 @@ If you're adding something new, make sure that it is [formatted correctly](#list
 
 ```
 - [Example IRC](https://example.com) - The best IRC client in the world ([source](https://example.com), [etc.](https://example.com)) `Tag`
-````
+```
+
+Will produce:
+- [Example IRC](https://example.com) - The best IRC client in the world ([source](https://example.com), [etc.](https://example.com)) `Tag`
