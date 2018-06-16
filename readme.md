@@ -1,4 +1,4 @@
-# [Awesome IRC](https://davison.io/awesome-irc/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome IRC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of [awesome](https://github.com/sindresorhus/awesome) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources
 
