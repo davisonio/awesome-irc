@@ -6,8 +6,6 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 *"IRC: The one protocol that you can never resist"* - [Firrre](https://firrre.com)
 
-![Logo](https://davison.io/assets/img/awesome-irc-logo.png)
-
 ## Contents
 
 - [Clients](#clients)
