@@ -97,8 +97,6 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 *IRC users which provide services for humans, e.g. integrations or information.*
 
-- [BotBot.me](https://botbot.me) - makes IRC logs awesome ([source](https://github.com/BotBotMe/botbot-bot))
-  - [Web interface](https://github.com/BotBotMe/botbot-web) - ([demo](https://botbot.me/freenode/ghost/))
 - [Sopel](https://sopel.chat) - tonnes of ready made features, tutorial, fully documented ([source](https://github.com/sopel-irc/sopel)) `Python`
 - [phenny](http://inamidst.com/phenny/) - simple, module creation guide ([source](https://github.com/sbp/phenny)) `Python`
 - [IRCcat](https://github.com/RJ/irccat) - simplifies messaging from shell scripts `Java`
@@ -181,8 +179,6 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 *How-to's, documentation and books.*
 
 - [#irchelp](http://www.irchelp.org) - a vast amount of reasonably up-to-date information
-- [How to Setup a Secure Private IRC Channel](https://botbot.me/how-to-setup-irc-channel/)
-- [BotBot's IRC Cheat Sheet](https://botbot.me/irc-guide/) - well-designed and with many well-answered questions
 
 ### Protocol
 
