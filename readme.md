@@ -163,7 +163,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 - [freenode](https://freenode.net) - the largest network, for free and open source software communities ([rules](https://freenode.net/policies))
 - [Snoonet](https://snoonet.org) - community of redditors and subreddits ([rules](https://snoonet.org/rules))
-- [OFTC](https://oftc.net) - commnuity for free and open source software communities
+- [OFTC](https://oftc.net) - community for free and open source software communities
 
 ### Articles
 
