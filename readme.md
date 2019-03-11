@@ -130,14 +130,15 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 *Sends messages back and forth.*
 
-- [discord-irc](https://github.com/reactiflux/discord-irc) - Discord <-> IRC `JavaScript`
-- [slack-irc](https://github.com/ekmartin/slack-irc) - Slack <-> IRC `JavaScript`
-- [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack <-> IRC `Go`
-- [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat <-> IRC `C`
-- [teleirc](https://github.com/FruitieX/teleirc) - Telegram <-> IRC `JavaScript`
-- [toxirc](https://github.com/endoffile78/toxirc) - Tox <-> IRC `C`
-- [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) <-> IRC `Javascript`
-- [whapp-irc](https://github.com/lieuwex/whapp-irc) - WhatsApp Web <-> IRC `Go`
+- [discord-irc](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC `JavaScript`
+- [slack-irc](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC `JavaScript`
+- [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC `Go`
+- [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC `C`
+- [teleirc](https://github.com/FruitieX/teleirc) - Telegram ↔ IRC `JavaScript`
+- [toxirc](https://github.com/endoffile78/toxirc) - Tox ↔ IRC `C`
+- [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC `Javascript`
+- [whapp-irc](https://github.com/lieuwex/whapp-irc) - WhatsApp Web ↔ IRC `Go`
+- [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ ... `Go`
 
 ### Channels
 
