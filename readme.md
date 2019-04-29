@@ -1,4 +1,4 @@
-# Awesome IRC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome IRC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![HitCount](http://hits.dwyl.io/davisonio/awesome-irc.svg)](http://hits.dwyl.io/davisonio/awesome-irc)
 
 > A curated list of [awesome](https://github.com/sindresorhus/awesome) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources
 
@@ -31,26 +31,27 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 *You use these to connect to IRC.*
 
-- [Komanda](https://komanda.io) - designed for people who write code (beta) ([source](https://github.com/mephux/komanda)) `Linux`
-- [Textual](https://www.codeux.com/textual/) - very customizable, ZNC integration, iCloud sync ($4.99) ([source](https://github.com/Codeux-Software/Textual)) `macOS`
-- [LimeChat](http://limechat.net/mac/) - one window for multiple servers, keyboard shortcuts, fast & stable ([source](https://github.com/psychs/limechat)) `macOS`
-- [HexChat](https://hexchat.github.io) - based on XChat, easy to use, spell check & multiple languages ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
-- [Kiwi IRC](https://kiwiirc.com) - a powerful modern IRC messenger for the web ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
-- [CIRC](https://flackr.github.io/circ/) - uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy ([source](https://github.com/flackr/circ)) `Chrome`
-- [Quassel](https://quassel-irc.org) - distributed (clients can attach to and detach from a central core that stays permanently online ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
-- [Yaaic](https://www.yaaic.org) - multi-server/channel support, SASL support, Smooth channel scrolling / swiping ([source](https://github.com/pocmo/Yaaic)) `Android`
-- [koko](https://github.com/KokoIRC/koko) - minimalistic design, VIM-like shortcuts and built on electron `Windows` `macOS`
+- ![komanda-icon-24px](https://user-images.githubusercontent.com/15098724/56874874-bf5ba580-69f1-11e9-9d3e-5265c43bcc7d.png) [Komanda](https://komanda.io) - designed for people who write code (beta) ([source](https://github.com/mephux/komanda)) `Linux`
+- ![Textual-icon-24px](https://user-images.githubusercontent.com/15098724/56874954-680a0500-69f2-11e9-87ec-d4015ce54af5.png) [Textual](https://www.codeux.com/textual/) - very customizable, ZNC integration, iCloud sync ($4.99) ([source](https://github.com/Codeux-Software/Textual)) `macOS`
+- ![Limechat-icon-24px](https://user-images.githubusercontent.com/15098724/56875043-04cca280-69f3-11e9-8e1f-285e54784fe4.png) [LimeChat](http://limechat.net/mac/) - one window for multiple servers, keyboard shortcuts, fast & stable ([source](https://github.com/psychs/limechat)) `macOS` `iOS`
+- ![Hexchat-icon-24px](https://user-images.githubusercontent.com/15098724/56874706-b28a8200-69f0-11e9-9ca7-27c8779134e0.png) [HexChat](https://hexchat.github.io) - based on XChat, easy to use, spell check & multiple languages ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
+- ![KiwiIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56875143-a7852100-69f3-11e9-8b33-2035c156c016.png) [Kiwi IRC](https://kiwiirc.com) - a powerful modern IRC messenger for the web ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
+- ![CIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56875201-1498b680-69f4-11e9-91ff-ae3b674c82be.png) [CIRC](https://flackr.github.io/circ/) - uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy ([source](https://github.com/flackr/circ)) `Chrome`
+- ![Quassel-icon-24px](https://user-images.githubusercontent.com/15098724/56875264-84a73c80-69f4-11e9-807c-75db09db0ec5.png) [Quassel](https://quassel-irc.org) - distributed (clients can attach to and detach from a central core that stays permanently online ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
+- ![YAAIC-icon-24px](https://user-images.githubusercontent.com/15098724/56875320-f8e1e000-69f4-11e9-9665-de50e95f4d91.png) [Yaaic](https://www.yaaic.org) - multi-server/channel support, SASL support, Smooth channel scrolling / swiping ([source](https://github.com/pocmo/Yaaic)) `Android`
+- ![KokoIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56875424-c389c200-69f5-11e9-8464-5132a289aefd.png) [Koko](https://github.com/KokoIRC/koko) - minimalistic design, VIM-like shortcuts and built on electron `Windows` `macOS`
 - [relay.js](https://github.com/Fauntleroy/relay.js) - focuses on making IRC less intimidating and easier to use ([demo](http://demo.relayjs.com)) `Web`
-- [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs`
-- [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-- [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
-- [Konversation](https://konversation.kde.org) - user-friendly client built on the KDE Platform ([source](https://github.com/KDE/konversation)) `Linux`
-- [sic](https://tools.suckless.org/sic/) - **s**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
-- [Colloquy](http://colloquy.info) - AppleScript-enabled IRC client `macOS`
-- [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
-- [WeeChat](https://weechat.org) - a fast, light and extensible chat client ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
-- [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - feature-full, actively maintained Android IRC client ([source](https://github.com/MCMrARM/revolution-irc)) `Android`
-- ![AdiIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) [AdiIRC](https://adiirc.com/) - Never has an IRC client offered such granular settings–for _everything under the sun_ ([Feature showcase](https://dev.adiirc.com/projects/adiirc/wiki/Features), [Screenshots galore](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows (XP thru 10)` `WINE`
+- ![Circe-icon-24px](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs`
+- ![Smuxi-icon-24px](https://user-images.githubusercontent.com/15098724/56875672-2f205f00-69f7-11e9-8cac-5721602234bb.png) [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
+- ![KvIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
+- ![Konversation-icon-24px](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) [Konversation](https://konversation.kde.org) - user-friendly client built on the KDE Platform ([source](https://github.com/KDE/konversation)) `Linux`
+- ![sic-icon-24px](https://user-images.githubusercontent.com/15098724/56876157-457bea00-69fa-11e9-94f5-11dcd0bfb00c.png) [sic](https://tools.suckless.org/sic/) - **s**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
+- ![Colloquy-icon-24px](https://user-images.githubusercontent.com/15098724/56876204-a3103680-69fa-11e9-8169-00e0450722de.png) [Colloquy](http://colloquy.info) - AppleScript-enabled IRC client `macOS`
+- ![irssi-icon-24px](https://user-images.githubusercontent.com/15098724/56876266-0c904500-69fb-11e9-85a9-00796373cf88.png) [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
+- ![weechat-icon-24px](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) [WeeChat](https://weechat.org) - a fast, light and extensible chat client ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
+- ![RevolutionIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56876444-4f065180-69fc-11e9-8200-b244b6a86e94.png) [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - feature-full, actively maintained Android IRC client ([source](https://github.com/MCMrARM/revolution-irc)) `Android`
+- ![AdiIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) [AdiIRC](https://adiirc.com/) - Never has a client offered such granular settings for every aspect of the IRC experience ([Features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [Screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
+- ![IRCforAndroid-icon-24px](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) [IRC for Android ™](http://www.countercultured.net/android) Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 
 *More? Clients that include bouncers are found [below](#bouncers).*
 
@@ -194,9 +195,9 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - [Protocol Statistics](http://stats.ircdocs.horse) - statistics around the server software in use on networks today ([source](https://github.com/ircdocs/irc-stats))
 - [IRC Parser Tests](https://github.com/DanielOaks/irc-parser-tests) - a CC0 set of test suites, to ensure IRC message parsers are consistent
 
-### Miscellaneous
+### [Monotremes](https://en.wikipedia.org/wiki/Monotreme#Taxonomy)
 
-*Items which don't fit into the other categories*
+*Items that belong on the list but defy classification.*
 
 - [IRC LC](https://irc.lc) - create a URL that points to a channel on a IRC network
 
@@ -220,9 +221,10 @@ This list also uses tags to help when searching the contents:
 
 ...and [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors).
 
-**[Contributions are welcome!](https://github.com/davisonio/awesome-irc/blob/master/contributing.md)**
+**[Contributions are welcome!](CONTRIBUTING.md)**
 
 ## License
 
 Unless otherwise stated:
+
 - Copyright © 2016+ [Craig Davison](https://davison.io). Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
