@@ -4,8 +4,6 @@
 
 A list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
 
-*"IRC: The one protocol that you can never resist"* - [Firrre](https://firrre.com)
-
 ## Contents
 
 - [Clients](#clients)
@@ -66,7 +64,6 @@ A list of tools, software & other resources related to the Internet Relay Chat (
   - [Android App](https://github.com/irccloud/android) - official `Java`
   - [Nimbus](https://github.com/jnordberg/irccloudapp) - standalone client `macOS` `Objective-C`
 - [Grove](https://grove.io) - hosted IRC and so much more (+client) ($10-$125/month)
-- [Firrre](https://firrre.com) - authorized connections to Free / Libre / Open Source driven IRC Networks (Free)
 
 #### Self-hosted
 
