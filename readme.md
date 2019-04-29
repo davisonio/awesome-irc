@@ -49,7 +49,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - ![weechat-icon-24px](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) [WeeChat](https://weechat.org) - a fast, light and extensible chat client ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
 - ![RevolutionIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56876444-4f065180-69fc-11e9-8200-b244b6a86e94.png) [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - feature-full, actively maintained Android IRC client ([source](https://github.com/MCMrARM/revolution-irc)) `Android`
 - ![AdiIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) [AdiIRC](https://adiirc.com/) - Never has a client offered such granular settings for every aspect of the IRC experience ([Features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [Screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
-- ![IRCforAndroid-icon-24px](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) [IRC for Android ™](http://www.countercultured.net/android) Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
+- ![IRCforAndroid-icon-24px](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) [IRC for Android ™](http://www.countercultured.net/android/) Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 
 *More? Clients that include bouncers are found [below](#bouncers).*
 
@@ -105,7 +105,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - [Jenni](https://github.com/myano/jenni) - `Python`
 - [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - responds to configured trigger phrases with quotes from notable women ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
 - [lazybot](https://github.com/Raynes/lazybot) - user-friendly and powerful `Clojure`
-- [IRC-BF](https://github.com/SirCmpwn/bf-irc-bot) - `Brainfuck`
+- [IRC-BF](https://github.com/ddevault/bf-irc-bot) - `Brainfuck`
 - [geordi](https://github.com/Eelis/geordi) - compiles and runs C++ code snippets `C++`
 - [CloudBot](https://github.com/CloudBotIRC/CloudBot) - simple, fast, expandable `Python`
 - [yossarian-bot](https://github.com/woodruffw/yossarian-bot) - large default plugin set, Cinch-based `Ruby`
@@ -123,7 +123,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - [pyaib](https://github.com/facebook/pyaib) - easy to use framework for writing bots `Python`
 - [slate-irc](https://github.com/slate/slate-irc) - plugin system, simple api, arbitrary input stream, debug support `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)) `Java`
-- [IRC::Client](https://github.com/zoffixznet/perl6-IRC-Client) - `Perl6` based extendable IRC client framework
+- [IRC::Client](https://github.com/perl6-community-modules/perl6-IRC-Client) - `Perl6` based extendable IRC client framework
 
 #### Bridges
 
@@ -163,7 +163,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 *A collection of IRC servers is known as a network.*
 
 - [freenode](https://freenode.net) - the largest network, for free and open source software communities ([rules](https://freenode.net/policies))
-- [Snoonet](https://snoonet.org) - community of redditors and subreddits ([rules](https://snoonet.org/rules))
+- [Snoonet](https://snoonet.org) - community of redditors and subreddits ([rules](https://snoonet.org/rules/))
 - [OFTC](https://oftc.net) - community for free and open source software communities
 
 ### Articles
@@ -172,7 +172,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 - [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog
 - [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - QuakeNet
-- [IRC is dead, long live IRC](https://royal.pingdom.com/2012/04/24/irc-is-dead-long-live-irc/) - Royal Pingdom
+- [IRC is dead, long live IRC](https://royal.pingdom.com/irc-is-dead-long-live-irc/) - Royal Pingdom
 - [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](https://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - Alex Williams (TechCrunch)
 
 ### Guides
@@ -186,11 +186,11 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 *Information and resources about the IRC protocol itself.*
 
 - [IRCv3 Working Group](https://ircv3.net) - a group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol ([source](https://github.com/ircv3/ircv3.github.io))
-- [Modern IRC Documents](http://modern.ircdocs.horse) - an attempt to write an update to the original IRC protocol documentation ([source](https://github.com/ircdocs/modern-irc))
-- [IRC Definition Files](http://defs.ircdocs.horse) - lists of numerics, modes, ISUPPORT tokens and other protocol details ([source](https://github.com/ircdocs/irc-defs))
+- [Modern IRC Documents](https://modern.ircdocs.horse/) - an attempt to write an update to the original IRC protocol documentation ([source](https://github.com/ircdocs/modern-irc))
+- [IRC Definition Files](https://defs.ircdocs.horse/) - lists of numerics, modes, ISUPPORT tokens and other protocol details ([source](https://github.com/ircdocs/irc-defs))
 - [grawity's IRC docs](https://github.com/grawity/irc-docs) - collection of misc IRC protocol documentation
-- [Protocol Statistics](http://stats.ircdocs.horse) - statistics around the server software in use on networks today ([source](https://github.com/ircdocs/irc-stats))
-- [IRC Parser Tests](https://github.com/DanielOaks/irc-parser-tests) - a CC0 set of test suites, to ensure IRC message parsers are consistent
+- [Protocol Statistics](https://stats.ircdocs.horse/) - statistics around the server software in use on networks today ([source](https://github.com/ircdocs/irc-stats))
+- [IRC Parser Tests](https://github.com/ircdocs/parser-tests) - a CC0 set of test suites, to ensure IRC message parsers are consistent
 
 ### [Monotremes](https://en.wikipedia.org/wiki/Monotreme#Taxonomy)
 
