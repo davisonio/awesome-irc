@@ -41,7 +41,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - [relay.js](https://github.com/Fauntleroy/relay.js) - focuses on making IRC less intimidating and easier to use ([demo](http://demo.relayjs.com)) `Web`
 - ![Circe-icon-24px](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs`
 - ![Smuxi-icon-24px](https://user-images.githubusercontent.com/15098724/56875672-2f205f00-69f7-11e9-8cac-5721602234bb.png) [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-- ![KvIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
+- ![KvIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) [KVIrc](https://www.kvirc.net/) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
 - ![Konversation-icon-24px](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) [Konversation](https://konversation.kde.org) - user-friendly client built on the KDE Platform ([source](https://github.com/KDE/konversation)) `Linux`
 - ![sic-icon-24px](https://user-images.githubusercontent.com/15098724/56876157-457bea00-69fa-11e9-94f5-11dcd0bfb00c.png) [sic](https://tools.suckless.org/sic/) - **s**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
 - ![Colloquy-icon-24px](https://user-images.githubusercontent.com/15098724/56876204-a3103680-69fa-11e9-8169-00e0450722de.png) [Colloquy](http://colloquy.info) - AppleScript-enabled IRC client `macOS`
@@ -49,7 +49,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - ![weechat-icon-24px](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) [WeeChat](https://weechat.org) - a fast, light and extensible chat client ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
 - ![RevolutionIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56876444-4f065180-69fc-11e9-8200-b244b6a86e94.png) [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - feature-full, actively maintained Android IRC client ([source](https://github.com/MCMrARM/revolution-irc)) `Android`
 - ![AdiIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) [AdiIRC](https://adiirc.com/) - Never has a client offered such granular settings for every aspect of the IRC experience ([Features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [Screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
-- ![IRCforAndroid-icon-24px](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) [IRC for Android ™](http://www.countercultured.net/android/) Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
+- ![IRCforAndroid-icon-24px](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) [IRC for Android ™](https://www.countercultured.net/android/) Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 
 *More? Clients that include bouncers are found [below](#bouncers).*
 
@@ -70,14 +70,14 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - [Convos](https://convos.by) - Always online web IRC client ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by/)) `Perl` `JavaScript` `Web`
 - [ZNC](https://wiki.znc.in/ZNC) - most popular. many different plugins ([source](https://github.com/znc/znc))
 - [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
-- [TheLounge](https://thelounge.chat) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat)) `JavaScript` `Node.js` `Web`
+- [TheLounge](https://thelounge.chat/) - responsive, self-hosted & support for multiple users ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
 
 ### Daemons
 
 *Used for running your own IRC server or network.*
 
 - [ircd.js](https://github.com/alexyoung/ircd.js) - server will allow clients to connect, join channels, change topics; basic stuff
-- [InspIRCd](http://www.inspircd.org) - modular, stable, written from scratch ([source](https://github.com/inspircd/inspircd))
+- [InspIRCd](https://www.inspircd.org/) - modular, stable, written from scratch ([source](https://github.com/inspircd/inspircd))
 - [miniircd](https://github.com/jrosdahl/miniircd) - very simple and limited
 - [ngIRCd](https://ngircd.barton.de) - portable and lightweight for small or private networks ([source](https://github.com/ngircd/ngircd))
 - [Hulk](https://github.com/chrisdone/hulk) - intended for private business use or hobby work `Haskell`
@@ -179,7 +179,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 *How-to's, documentation and books.*
 
-- [#irchelp](http://www.irchelp.org) - a vast amount of reasonably up-to-date information
+- [#irchelp](https://www.irchelp.org/) - a vast amount of reasonably up-to-date information
 
 ### Protocol
 
