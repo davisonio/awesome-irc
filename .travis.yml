@@ -1,13 +1,20 @@
-language: ruby
+language: node_js
+node_js:
+  - 'node'
 
-rvm:
-  - 2.2
+git:
+  depth: false
+
+before_install:
+  - rvm install 2.2.2
 
 install:
+  - npm install -g awesome-lint
   - gem install awesome_bot
 
 script:
+  - awesome-lint || true
   - awesome_bot readme.md --allow-dupe --white-list irc.lc,img.shields.io,demo.thelounge.chat,awesome.re,quassel-irc.org
-
+  
 notifications:
   email: false
