@@ -1,6 +1,6 @@
-# Awesome IRC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![HitCount](http://hits.dwyl.io/davisonio/awesome-irc.svg)](http://hits.dwyl.io/davisonio/awesome-irc)
+# Awesome IRC [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of [awesome](https://github.com/sindresorhus/awesome) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources
+> A curated list of [awesome](https://github.com/sindresorhus/awesome) [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources.
 
 A list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
 
