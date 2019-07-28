@@ -145,7 +145,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 
 #### Discovery
 
-- [irc.netsplit.de Search](http://irc.netsplit.de/channels/) - searches 563 different networks
+- [netsplit.de Search](https://netsplit.de/channels/ ) - searches 563 different networks
 - [mibbit Search](https://search.mibbit.com) - searches networks listed [here](https://search.mibbit.com/networks)
 - [KiwiIRC Search](https://kiwiirc.com/search) - searches 318 different networks
 
