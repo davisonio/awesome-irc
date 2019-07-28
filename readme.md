@@ -192,7 +192,7 @@ A list of tools, software & other resources related to the Internet Relay Chat (
 - [Protocol Statistics](https://stats.ircdocs.horse/) - statistics around the server software in use on networks today ([source](https://github.com/ircdocs/irc-stats))
 - [IRC Parser Tests](https://github.com/ircdocs/parser-tests) - a CC0 set of test suites, to ensure IRC message parsers are consistent
 
-### [Monotremes](https://en.wikipedia.org/wiki/Monotreme#Taxonomy)
+### Miscellaneous
 
 *Items that belong on the list but defy classification.*
 
