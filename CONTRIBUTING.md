@@ -8,7 +8,7 @@ Personal experience leads me to believe that nowhere in the Universe is Hanlon's
 
 Please send a [GitHub Pull Request to awesome-irc](https://github.com/davisonio/awesome-irc/pull/new/master) with a clear one-line summary of what you think should be added, changed or removed and as much supporting commentary as you think will get us up to speed on why it's so awesome. :sunglasses: (read more about [pull requests](http://help.github.com/pull-requests/)). Passion and enthusiasm are always welcome so long as they're adequately chaperoned by reason and maturity, so make your best pitch; just be aware that our best form of quality control is healthy skepticism so there's never a guarantee of an easy "LGTM."
 
-Specifically, if you're adding something new, make sure that it is [formatted correctly](#list-format) and offers at least a hint of the awesomeness.
+Specifically, if you're adding something new, make sure that it is [formatted correctly](#manual-of-style) and offers at least a hint of the awesomeness.
 
 ### Manual of Style
 
