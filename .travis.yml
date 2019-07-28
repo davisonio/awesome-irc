@@ -7,7 +7,7 @@ install:
   - gem install awesome_bot
 
 script:
-  - awesome_bot readme.md --allow-dupe --white-list irc.lc,img.shields.io,demo.thelounge.chat
+  - awesome_bot readme.md --allow-dupe --white-list irc.lc,img.shields.io,demo.thelounge.chat,awesome.re,quassel-irc.org
 
 notifications:
   email: false
