@@ -15,12 +15,12 @@ Specifically, if you're adding something new, make sure that it is [formatted co
 Your submission should hew rather closely to this syntax:
 
 ```md
-- [Example IRC](https://example.com) - The best IRC client in the world ([source](https://example.com), [etc.](https://example.com)) `Tag`
+- [Example IRC](https://example.com) - The best IRC client in the world. ([source](https://example.com), [etc.](https://example.com)) `Tag`
 ```
 
 Which produces the formatting we've decided works best:
 
-- [Example IRC](https://example.com) - The best IRC client in the world ([source](https://example.com), [etc.](https://example.com)) `Tag`
+- [Example IRC](https://example.com) - The best IRC client in the world. ([source](https://example.com), [etc.](https://example.com)) `Tag`
 
 ### Coding conventions
 
