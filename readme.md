@@ -4,6 +4,8 @@
 
 A list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
 
+IRC (Internet Relay Chat) is an open source protocol that can be used for multi-user text based communication through channels.
+
 ## Contents
 
 - [Clients](#clients)
