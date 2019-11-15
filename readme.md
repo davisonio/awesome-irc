@@ -158,7 +158,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 #### Programming
 
-- [#python](https://www.python.org/community/irc/)@freenode - Good place for short python questions. ([rules](https://www.python.org/psf/codeofconduct/))
+- [#python](https://www.python.org/community/irc/)@freenode - Good place for short python questions. ([rules](https://www.python.org/psf/conduct/))
 
 ### Networks
 
