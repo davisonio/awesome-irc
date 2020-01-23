@@ -123,7 +123,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [pyaib](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python`
 - [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
-- [IRC::Client](https://github.com/perl6-community-modules/perl6-IRC-Client) - `Perl6` based extendable IRC client framework.
+- [IRC::Client](https://github.com/raku-community-modules/perl6-IRC-Client) - `Perl6` based extendable IRC client framework.
 
 #### Bridges
 
