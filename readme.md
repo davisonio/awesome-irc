@@ -194,6 +194,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [grawity's IRC docs](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
 - [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source](https://github.com/ircdocs/irc-stats))
 - [IRC Parser Tests](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent.
+- [DareNET Archives](https://archives.darenet.org) - IRC Archives for old hard to find IRC related software.
 
 ### Miscellaneous
 
