@@ -106,9 +106,9 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Skybot](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
 - [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
 - [lazybot](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
-- [IRC-BF](https://github.com/ddevault/bf-irc-bot) - `Brainfuck`
+- [IRC-BF](https://gitlab.com/ddevault/bf-irc-bot) - `Brainfuck`
 - [geordi](https://github.com/Eelis/geordi) - Compiles and runs C++ code snippets. `C++`
-- [CloudBot](https://github.com/CloudBotIRC/CloudBot) - Simple, fast, expandable. `Python`
+- [CloudBot](https://github.com/TotallyNotRobots/CloudBot) - Simple, fast, expandable. `Python`
 - [yossarian-bot](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
 - [helga](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
 - [EveIRC](https://github.com/Inspyre-Technologies/EveIRC) - Extendable chat/channel/server-managenent service-providing bot. Using the [Cinch Framework](https://github.com/cinchrb/cinch). `Ruby`
@@ -136,7 +136,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
 - [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
-- [teleirc](https://github.com/FruitieX/teleirc) - Telegram ↔ IRC. `JavaScript`
+- [teleirc](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
 - [toxirc](https://github.com/endoffile78/toxirc) - Tox ↔ IRC. `C`
 - [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
 - [whapp-irc](https://github.com/lieuwex/whapp-irc) - WhatsApp Web ↔ IRC. `Go`
