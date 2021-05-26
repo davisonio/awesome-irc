@@ -121,8 +121,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [pyaib](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python`
 - [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
-- [IRC::Client](https://github.com/raku-community-modules/perl6-IRC-Client) - `Perl6` based extendable IRC client framework.
-- [irccd](http://projects.malikania.fr/irccd) - Flexible IRC bot customizable with Javascript. `C++`.
+- [IRC::Client](https://github.com/raku-community-modules/IRC-Client) - `Perl6` based extendable IRC client framework.
+- [irccd](http://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with Javascript. `C++`.
 
 #### Bridges
 
@@ -165,7 +165,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 - [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog.
 - [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - QuakeNet.
-- [IRC is dead, long live IRC](https://royal.pingdom.com/irc-is-dead-long-live-irc/) - Royal Pingdom.
+- [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) - Pingdom.
 - [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](https://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - Alex Williams (TechCrunch).
 
 ### Guides
