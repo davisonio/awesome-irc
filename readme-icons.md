@@ -66,9 +66,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
   - [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
 - [![Grove-icon-24px](https://user-images.githubusercontent.com/15098724/56879376-541fcc80-6a0d-11e9-882a-980aa6f285bf.png) Grove](https://grove.io) - Hosted IRC and so much more (+client) ($10-$125/month).
 
-#### Self-hosted
 
-- [![Convos-icon-24px](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.by) - Always online web IRC client. ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by)) `Perl` `JavaScript` `Web`
+- [![Convos-icon-24px](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos), [demo](https://demo.convos.chat)) `Perl` `JavaScript` `Web`
 - [![ZNC-icon-24px](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc))
 - [![BIP-icon-24px](https://user-images.githubusercontent.com/15098724/56899123-89491080-6a47-11e9-8513-4c8d09be32d9.png) BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 - [![TheLounge-icon-24px](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
