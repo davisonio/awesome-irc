@@ -150,18 +150,13 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 #### Platforms
 
-- [##linux](https://freenode.linux.community)@freenode - Linux support and discussion channel. ([rules](https://freenode.linux.community/channel-rules/))
-- [#ubuntu](https://help.ubuntu.com/community/InternetRelayChat)@freenode - Official ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
-
-#### Programming
-
-- [#python](https://www.python.org/community/irc/)@freenode - Good place for short python questions. ([rules](https://www.python.org/psf/conduct/))
+- [#ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
 
 ### Networks
 
 *A collection of IRC servers is known as a network.*
 
-- [freenode](https://freenode.net) - The largest network, for free and open source software communities. ([rules](https://freenode.net/policies))
+- [Libera.Chat](https://libera.chat) - Network mostly focused on free and open source projects, run by former freenode staff.
 - [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
 - [OFTC](https://oftc.net) - Community for free and open source software communities.
 
