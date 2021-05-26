@@ -191,8 +191,6 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Items that belong on the list but defy classification.*
 
-- [IRC LC](https://irc.lc) - Create a URL that points to a channel on a IRC network.
-
 ## Use
 
 The best ways to use this list are:
