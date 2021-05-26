@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  awesome-bot-link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: docker://dkhamsing/awesome_bot:latest
+        with:
+          args: readme.md --allow-dupe --white-list irc.lc,img.shields.io,demo.thelounge.chat,awesome.re,quassel-irc.org,demo.convos.chat
