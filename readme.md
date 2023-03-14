@@ -198,8 +198,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 The best ways to use this list are:
 
-- by browsing the [contents](#contents)
-- by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
+- By browsing the [contents](#contents)
+- By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
 This list also uses tags to help when searching the contents:
 
@@ -208,16 +208,4 @@ This list also uses tags to help when searching the contents:
 
 ## Credits
 
-**[Craig Davison](https://davison.io)**
-
-[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
-
-...and [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors).
-
-**[Contributions are welcome!](https://github.com/davisonio/awesome-irc/blob/master/contributing.md)**
-
-## License
-
-Unless otherwise stated:
-
-- Copyright © 2016+ [Craig Davison](https://davison.io). Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+By [Craig Davison](https://davison.io) and contributors.
