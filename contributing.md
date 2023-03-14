@@ -25,7 +25,3 @@ Which produces the formatting we've decided works best:
 ### Coding conventions
 
 Please make sure all of your commits are atomic (one change to the list per commit).
-
-## Join the community
-
-If you haven't already, come find us on, you guessed it, IRC! ([#awesome-irc](ircs://chat.freenode.net/awesome-irc) on Freenode).
