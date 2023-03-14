@@ -44,7 +44,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
 - [Yaaic](https://www.yaaic.org) - Multi-server/channel support, SASL support, Smooth channel scrolling / swiping. ([source](https://github.com/pocmo/Yaaic)) `Android`
 - [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. `Web`
-- [Circe](https://github.com/jorgenschaefer/circe) - For use in Emacs, sane defaults. `Emacs`
+- [Circe](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
 - [Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
 - [KvIRC](http://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
 - [Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source](https://github.com/KDE/konversation)) `Linux`
@@ -71,7 +71,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 ### Self-hosted
 
-- [Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos), [demo](https://demo.convos.chat)) `Perl` `JavaScript` `Web`
+- [Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
 - [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc)) `C++`
 - [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 - [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
@@ -112,7 +112,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [yossarian-bot](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
 - [helga](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
 - [EveIRC](https://github.com/Inspyre-Technologies/EveIRC) - Extendable chat/channel/server-managenent service-providing bot. Using the [Cinch Framework](https://github.com/cinchrb/cinch). `Ruby`
-- [BitBot](https://github.com/jesopo/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. [bitbot.dev](https://bitbot.dev) `Python`
+- [BitBot](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
 - [Cardinal](https://github.com/JohnMaguire/Cardinal) - Python Twisted IRC bot with a focus on ease of plugin development. `Python`
 
 ## Frameworks
@@ -123,11 +123,10 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [goirc](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
 - [Hubot IRC Adapter](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
 - [go-ircevent](https://github.com/thoj/go-ircevent) - Event-based. `Go`
-- [pyaib](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python`
 - [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
-- [IRC::Client](https://github.com/raku-community-modules/IRC-Client) - `Perl6` based extendable IRC client framework.
-- [irccd](http://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with JavaScript. `C++`.
+- [IRC::Client](https://github.com/lizmat/IRC-Client) - `Perl6` based extendable IRC client framework.
+- [irccd](https://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with JavaScript. `C++`.
 
 ### Bridges
 
@@ -138,7 +137,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
 - [teleirc](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
-- [toxirc](https://github.com/endoffile78/toxirc) - Tox ↔ IRC. `C`
+- [toxirc](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
 - [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
 - [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
 
