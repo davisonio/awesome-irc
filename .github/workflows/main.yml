@@ -1,16 +1,20 @@
 name: CI
-
 on:
   push:
-    branches: [ master ]
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
   workflow_dispatch:
-
 jobs:
-  awesome-bot-link-check:
+  awesome_lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      - uses: docker://dkhamsing/awesome_bot:latest
+      - uses: actions/checkout@v3
         with:
-          args: readme.md --allow-dupe --white-list irc.lc,img.shields.io,demo.thelounge.chat,awesome.re,quassel-irc.org,demo.convos.chat
+          fetch-depth: 0
+      - run: npx awesome-lint
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - run: gem install awesome_bot
+      - run: awesome_bot readme.md --white-list awesome.re
