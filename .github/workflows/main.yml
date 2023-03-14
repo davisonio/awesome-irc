@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - run: npx awesome-lint
+      - run: npx awesome-lint readme.md
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7
