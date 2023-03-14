@@ -8,11 +8,13 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 ## Contents
 
+<!--lint disable awesome-toc-->
+<!--lint disable awesome-list-item-->
 <!--lint ignore double-link-->
 - [Clients](#clients)
 - [Bouncers](#bouncers)
-  - [Self-hosted](#self-hosted)
   - [Hosted](#hosted)
+  - [Self-hosted](#self-hosted)
 - [Daemons](#daemons)
 - [Services](#services)
 - [Bots](#bots)
