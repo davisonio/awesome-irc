@@ -138,6 +138,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
 - [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
+- [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients `C`
 - [teleirc](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
 - [toxirc](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
 - [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
