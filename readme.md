@@ -143,6 +143,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [toxirc](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
 - [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
 - [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
+- [Heisenbridge](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge `Python`
+- [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) - Gateway and bridge Matrix ↔ IRC `Javascript`
 
 ## Channels
 
