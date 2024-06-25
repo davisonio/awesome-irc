@@ -54,6 +54,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 - [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source](https://github.com/avojak/iridium)) `Linux`
 - [IRC Vitamin](https://play.google.com/store/apps/details?id=com.todoartedigital.chuecamobile.irc.vitamin) - Simple, fast and easy access to multiple IRC networks. `Android`
+- [Goguma](https://sr.ht/~emersion/goguma/) - An IRC client for mobile devices, from the creator of soju. `Android` `Linux`
 
 <!--lint ignore double-link-->
 *More? Clients that include bouncers are found [below](#bouncers).*
@@ -77,6 +78,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
 - [WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
 - [soju](https://git.sr.ht/~emersion/soju) - A user-friendly IRC bouncer. `Go`
+- [sms-webhook](https://github.com/terminaldweller/sms-webhook) - A simple webhook to receive SMS messages on IRC. `Go`
 
 ## Daemons
 
@@ -117,6 +119,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Cardinal](https://github.com/JohnMaguire/Cardinal) - Python Twisted IRC bot with a focus on ease of plugin development. `Python`
 - [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source](https://github.com/pyhoneybot/honeybot)) `Python`
 - [wayback](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
+- [milla](https://github.com/terminaldweller/milla) - New generation LLM-powered bot with lua scripting support. `Go`
 
 ## Frameworks
 
@@ -147,6 +150,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
 - [Heisenbridge](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge `Python`
 - [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) - Gateway and bridge Matrix ↔ IRC `Javascript`
+- [matterircd](https://github.com/42wim/matterircd) - Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
 
 ## Channels
 
@@ -203,6 +207,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *Items that belong on the list but defy classification.*
 
 - [superseriousstats](https://github.com/tommyrot/superseriousstats) - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
+- [img2src](https://github.com/waveplate/img2irc) - Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. `Rust`
 
 ## Use
 
