@@ -17,4 +17,4 @@ jobs:
         with:
           ruby-version: 2.7
       - run: gem install awesome_bot
-      - run: awesome_bot readme.md --white-list awesome.re,geekchick77.dreamwidth.org,davison.io,thelounge.chat
+      - run: awesome_bot readme.md --white-list awesome.re,geekchick77.dreamwidth.org,davison.io,thelounge.chat,projects.malikania.fr/irccd
