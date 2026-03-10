@@ -1,0 +1,49 @@
+name: Suggest a project
+description: Suggest a new project to add to the list
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+      placeholder: e.g. Halloy
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Project URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source code URL (if different)
+      placeholder: https://github.com/example/project
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Clients
+        - Bouncers
+        - Daemons
+        - Services
+        - Bots
+        - Frameworks
+        - Bridges
+        - Networks
+        - Articles
+        - Guides
+        - Protocol
+        - Miscellaneous
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Why is this project awesome?
+      placeholder: Tell us why this project should be on the list
+    validations:
+      required: true

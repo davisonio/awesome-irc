@@ -7,14 +7,20 @@ on:
   workflow_dispatch:
 jobs:
   awesome_lint:
+    name: Awesome Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - run: npx awesome-lint readme.md
-      - uses: ruby/setup-ruby@v1
+
+  link_check:
+    name: Link Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
         with:
-          ruby-version: 2.7
-      - run: gem install awesome_bot
-      - run: awesome_bot readme.md --white-list awesome.re,geekchick77.dreamwidth.org,davison.io,thelounge.chat,projects.malikania.fr/irccd
+          args: --verbose --no-progress readme.md
+          fail: true

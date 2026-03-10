@@ -1,0 +1,18 @@
+name: Report a dead project
+description: Report a project that should be removed from the list
+labels: ["removal"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+      placeholder: Name as it appears in the list
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should it be removed?
+      placeholder: e.g. Repository archived, no commits in 3+ years, website down
+    validations:
+      required: true

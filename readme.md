@@ -23,7 +23,6 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Channels](#channels)
   - [Discovery](#discovery)
   - [Platforms](#platforms)
-  - [Programming](#programming)
 - [Networks](#networks)
 - [Articles](#articles)
 - [Guides](#guides)
@@ -34,25 +33,23 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *You use these to connect to IRC.*
 
+- [Halloy](https://halloy.chat) - Modern, fast IRC client built with Iced GUI. IRCv3.2, SASL, DCC, and multi-server support. ([source](https://github.com/squidowl/halloy)) `Rust` `Windows` `macOS` `Linux`
 - [Textual](https://www.codeux.com/textual/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source](https://github.com/Codeux-Software/Textual)) `macOS`
-- [LimeChat](http://limechat.net/mac/) - One window for multiple servers, keyboard shortcuts, fast & stable. ([source](https://github.com/psychs/limechat)) `macOS` `iOS`
 - [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
 - [gamja](https://sr.ht/~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/~emersion/gamja)) `Web`
 - [Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
-- [CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source](https://github.com/flackr/circ)) `Chrome`
-- [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
-- [Yaaic](https://www.yaaic.org) - Multi-server/channel support, SASL support, Smooth channel scrolling / swiping. ([source](https://github.com/pocmo/Yaaic)) `Android`
-- [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. `Web`
+- [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online). ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
 - [Circe](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
-- [Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
 - [KvIRC](https://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
 - [Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source](https://github.com/KDE/konversation)) `Linux`
 - [sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
 - [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
-- [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
+- [catgirl](https://git.causal.agency/catgirl/) - TLS-only terminal client with tab-complete, nick coloring, URL detection, and split scrolling. `Linux` `macOS` `BSD`
+- [senpai](https://sr.ht/~delthas/senpai/) - Modern terminal client designed to work best with IRC bouncers. CHATHISTORY and SEARCH support. ([source](https://git.sr.ht/~delthas/senpai)) `Go`
+- [tiny](https://github.com/osa1/tiny) - Terminal client with nick mention tracking, auto-reconnect, and configurable key bindings. `Rust`
 - [AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
 - [IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
-- [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source](https://github.com/avojak/iridium)) `Linux`
+- [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
 - [Goguma](https://sr.ht/~emersion/goguma/) - An IRC client for mobile devices, from the creator of soju. `Android` `Linux`
 
 <!--lint ignore double-link-->
@@ -71,24 +68,21 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 ### Self-hosted
 
-- [Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
+- [soju](https://soju.im) - A user-friendly IRC bouncer with multi-upstream support and IRCv3 extensions. ([source](https://git.sr.ht/~emersion/soju)) `Go`
 - [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc)) `C++`
-- [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
+- [Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
 - [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
 - [WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
-- [soju](https://git.sr.ht/~emersion/soju) - A user-friendly IRC bouncer. `Go`
-- [sms-webhook](https://github.com/terminaldweller/sms-webhook) - A simple webhook to receive SMS messages on IRC. `Go`
 
 ## Daemons
 
 *Used for running your own IRC server or network.*
 
-- [ircd.js](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff.
-- [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd))
-- [miniircd](https://github.com/jrosdahl/miniircd) - Very simple and limited.
-- [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd))
-- [Ergo](https://github.com/ergochat/ergo) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support).
-- [RobustIRC](https://robustirc.net) - IRC server without netsplits. ([source](https://github.com/robustirc/robustirc/))
+- [UnrealIRCd](https://www.unrealircd.org) - The most widely deployed IRC server (38% market share). Modular, highly configurable, with advanced security and IRCv3 support. ([source](https://github.com/unrealircd/unrealircd)) `C`
+- [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd)) `C++`
+- [Ergo](https://ergo.chat) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). Combines ircd, services, and bouncer. ([source](https://github.com/ergochat/ergo)) `Go`
+- [Solanum](https://solanum.chat) - IRCv3 server used by Libera.Chat and OFTC, continuation of Charybdis. ([source](https://github.com/solanum-ircd/solanum)) `C`
+- [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd)) `C`
 
 ## Services
 
@@ -104,52 +98,33 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Eggdrop](https://www.eggheads.org) - Oldest IRC bot still in active development. Feature rich, uses Tcl scripting. ([source](https://github.com/eggheads/eggdrop)) `C`
 - [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source](https://github.com/sopel-irc/sopel)) `Python`
 - [Limnoria](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
-- [Twitch Plays](https://github.com/aidanrwt/twitch-plays ) - Takes input from the chat and presses the corresponding key. `Python`
-- [Skybot](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
-- [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
-- [lazybot](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
-- [IRC-BF](https://gitlab.com/ddevault/bf-irc-bot) - `Brainfuck`
-- [geordi](https://github.com/Eelis/geordi) - Compiles and runs C++ code snippets. `C++`
 - [CloudBot](https://github.com/TotallyNotRobots/CloudBot) - Simple, fast, expandable. `Python`
-- [yossarian-bot](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
-- [helga](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
-- [EveIRC](https://github.com/Inspyre-Technologies/EveIRC) - Extendable chat/channel/server-managenent service-providing bot. Using the [Cinch Framework](https://github.com/cinchrb/cinch). `Ruby`
-- [BitBot](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
-- [Cardinal](https://github.com/JohnMaguire/Cardinal) - Python Twisted IRC bot with a focus on ease of plugin development. `Python`
-- [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source](https://github.com/pyhoneybot/honeybot)) `Python`
+- [milla](https://github.com/terminaldweller/milla) - LLM-powered bot with Lua scripting support. `Go`
 - [wayback](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
-- [milla](https://github.com/terminaldweller/milla) - New generation LLM-powered bot with lua scripting support. `Go`
 
 ## Frameworks
 
 *Helpful to write bots or integrate IRC with applications.*
 
-- [node-irc](https://github.com/Throne3d/node-irc) `JavaScript`
-- [goirc](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
-- [Hubot IRC Adapter](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
-- [go-ircevent](https://github.com/thoj/go-ircevent) - Event-based. `Go`
-- [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
+- [irc](https://github.com/aatxe/irc) - A thread-safe and reactive IRC library. `Rust`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
+- [girc](https://github.com/lrstanley/girc) - Flexible IRC library with support for decoding/encoding raw IRC lines. `Go`
 - [IRC::Client](https://github.com/lizmat/IRC-Client) - `Perl6` based extendable IRC client framework.
-- [irccd](https://projects.malikania.fr/irccd/index.html) - Flexible IRC bot customizable with JavaScript. `C++`.
 
 ### Bridges
 
 *Sends messages back and forth.*
 
-- [discord-irc](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
-- [dibridge](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets) `Python`
-- [slack-irc](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
-- [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
-- [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
-- [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients `C`
-- [teleirc](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
-- [toxirc](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
-- [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
 - [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
-- [Heisenbridge](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge `Python`
-- [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) - Gateway and bridge Matrix ↔ IRC `Javascript`
-- [matterircd](https://github.com/42wim/matterircd) - Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
+- [Heisenbridge](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge. `Python`
+- [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) - Gateway and bridge Matrix ↔ IRC. `JavaScript`
+- [discord-irc](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
+- [dibridge](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets). `Python`
+- [teleirc](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
+- [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
+- [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients. `C`
+- [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
+- [matterircd](https://github.com/42wim/matterircd) - Mattermost ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
 
 ## Channels
 
@@ -157,7 +132,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 ### Discovery
 
-- [netsplit.de Search](https://netsplit.de/channels/ ) - Searches 563 different networks.
+- [netsplit.de Search](https://netsplit.de/channels/) - Searches 563 different networks.
 - [mibbit Search](https://search.mibbit.com) - Searches networks listed [here](https://search.mibbit.com/networks).
 - [KiwiIRC Search](https://kiwiirc.com/search) - Searches 318 different networks.
 
@@ -169,9 +144,12 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *A collection of IRC servers is known as a network.*
 
-- [Libera.Chat](https://libera.chat) - Network mostly focused on free and open source projects, run by former freenode staff.
-- [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
+- [Libera.Chat](https://libera.chat) - The largest IRC network, mostly focused on free and open source projects.
 - [OFTC](https://oftc.net) - Community for free and open source software communities.
+- [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
+- [EFnet](http://www.efnet.org) - One of the original IRC networks, founded in 1990.
+- [DALnet](https://www.dal.net) - Large network with a long history, services-friendly.
+- [Rizon](https://rizon.net) - Large general-purpose network popular in the anime and creative communities.
 - [LibertaCasa](https://liberta.casa) - Privacy endorsing community serving as a safe and open space for the discussion of various topics.
 
 ## Articles
@@ -194,7 +172,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *Information and resources about the IRC protocol itself.*
 
 - [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source](https://github.com/ircv3/ircv3.github.io))
-- [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source](https://github.com/ircdocs/modern-irc))
+- [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol documentation. ([source](https://github.com/ircdocs/modern-irc))
 - [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source](https://github.com/ircdocs/irc-defs))
 - [grawity's IRC docs](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
 - [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source](https://github.com/ircdocs/irc-stats))
@@ -206,7 +184,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *Items that belong on the list but defy classification.*
 
 - [superseriousstats](https://github.com/tommyrot/superseriousstats) - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
-- [img2src](https://github.com/waveplate/img2irc) - Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. `Rust`
+- [img2irc](https://github.com/waveplate/img2irc) - Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. `Rust`
 
 ## Use
 
@@ -216,7 +194,7 @@ The best ways to use this list are:
 - By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
 This list also uses tags to help when searching the contents:
-- **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
+- **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C`, `Rust` etc.
 - **Platform** - `Web`, `macOS`, `Windows`, `Linux`, `Chrome` etc.
 
 ## Credits
