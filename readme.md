@@ -47,6 +47,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [catgirl](https://git.causal.agency/catgirl/) - TLS-only terminal client with tab-complete, nick coloring, URL detection, and split scrolling. `Linux` `macOS` `BSD`
 - [senpai](https://sr.ht/~delthas/senpai/) - Modern terminal client designed to work best with IRC bouncers. CHATHISTORY and SEARCH support. ([source](https://git.sr.ht/~delthas/senpai)) `Go`
 - [tiny](https://github.com/osa1/tiny) - Terminal client with nick mention tracking, auto-reconnect, and configurable key bindings. `Rust`
+- [kirc](https://github.com/mcpcpc/kirc) - A KISS for IRC, tiny IRC client written in POSIX C99. `Linux`
 - [AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
 - [IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
@@ -73,6 +74,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
 - [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
 - [WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
+- [pounce](https://git.causal.agency/pounce/) - Multi-client, TLS-only IRC bouncer. By the author of catgirl. `C`
 
 ## Daemons
 
