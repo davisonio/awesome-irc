@@ -55,7 +55,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [![IRCforAndroid-icon](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 - [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source](https://github.com/avojak/iridium)) `Linux`
 - [mIRC](https://www.mirc.co.uk) - One of the most popular IRC clients for Windows, with a built-in scripting language. `Windows`
-- [ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC/) - Modern websocket IRC client with Discord-like UI. ([demo](https://obsidianirc.github.io)) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
+- [ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC/) - Modern WebSocket IRC client with Discord-like UI. ([demo](https://obsidianirc.github.io)) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
 - [XChat](http://xchat.org) - Precursor to HexChat, multi-platform graphical IRC client. `Windows` `Linux`
 - [ircII](http://www.eterna23.net/ircii/) - One of the oldest IRC clients, initially released in 1989. `Linux` `macOS`
 - [BitchX](https://bitchx.sourceforge.net/) - Terminal-based client popular on Unix-like systems. ([screenshots](https://bitchx.sourceforge.net/category/screenshots.html)) `Linux` `macOS` `Windows`
@@ -180,7 +180,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 ### Platforms
 
-- [#ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
+- [#Ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
 
 ## Networks
 
