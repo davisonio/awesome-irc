@@ -24,7 +24,6 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Channels](#channels)
   - [Discovery](#discovery)
   - [Platforms](#platforms)
-  - [Programming](#programming)
 - [Networks](#networks)
 - [Articles](#articles)
 - [Guides](#guides)
