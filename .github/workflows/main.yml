@@ -17,4 +17,8 @@ jobs:
         with:
           ruby-version: 2.7
       - run: gem install awesome_bot
-      - run: awesome_bot readme.md --white-list awesome.re,geekchick77.dreamwidth.org,davison.io,thelounge.chat,projects.malikania.fr/irccd
+      # White list:
+      #   awesome.re - always 301 redirects to github
+      #   davison.io - SSL hostname mismatch on cert
+      #   quassel-irc.org - intermittently unreachable
+      - run: awesome_bot readme.md --white-list awesome.re,davison.io,quassel-irc.org
