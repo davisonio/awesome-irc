@@ -55,6 +55,10 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [![IRCforAndroid-icon](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 - [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source](https://github.com/avojak/iridium)) `Linux`
 - [mIRC](https://www.mirc.co.uk) - One of the most popular IRC clients for Windows, with a built-in scripting language. `Windows`
+- [ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC/) - Modern websocket IRC client with Discord-like UI. ([demo](https://obsidianirc.github.io)) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
+- [XChat](http://xchat.org) - Precursor to HexChat, multi-platform graphical IRC client. `Windows` `Linux`
+- [ircII](http://www.eterna23.net/ircii/) - One of the oldest IRC clients, initially released in 1989. `Linux` `macOS`
+- [BitchX](https://bitchx.sourceforge.net/) - Terminal-based client popular on Unix-like systems. ([screenshots](https://bitchx.sourceforge.net/category/screenshots.html)) `Linux` `macOS` `Windows`
 - [Goguma](https://sr.ht/~emersion/goguma/) - An IRC client for mobile devices, from the creator of soju. `Android` `Linux`
 
 <!--lint ignore double-link-->
@@ -80,6 +84,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat)) `Linux` `macOS`
 - [soju](https://git.sr.ht/~emersion/soju) - A user-friendly IRC bouncer. `Go`
 - [sms-webhook](https://github.com/terminaldweller/sms-webhook) - A simple webhook to receive SMS messages on IRC. `Go`
+- [psyBNC](https://psybnc.org/) - Multi-user, permanent IRC bouncer with encryption support. `Linux`
 
 ## Daemons
 
@@ -89,7 +94,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd))
 - [miniircd](https://github.com/jrosdahl/miniircd) - Very simple and limited.
 - [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd))
-- [Ergo](https://github.com/ergochat/ergo) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support).
+- [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo))
+- [UnrealIRCd](https://www.unrealircd.org) - Modular, advanced IRCd serving thousands of networks since 1999. ([source](https://github.com/unrealircd/unrealircd))
 - [RobustIRC](https://robustirc.net) - IRC server without netsplits. ([source](https://github.com/robustirc/robustirc/))
 
 ## Services
@@ -149,6 +155,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 - [discord-irc](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
 - [dibridge](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets) `Python`
+- [Dis4IRC](https://github.com/zachbr/Dis4IRC) - Discord ↔ IRC. `Kotlin`
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
 - [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
