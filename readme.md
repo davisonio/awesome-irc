@@ -18,6 +18,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Daemons](#daemons)
 - [Services](#services)
 - [Bots](#bots)
+- [Encryption](#encryption)
 - [Frameworks](#frameworks)
   - [Bridges](#bridges)
 - [Channels](#channels)
@@ -120,6 +121,14 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source](https://github.com/pyhoneybot/honeybot)) `Python`
 - [wayback](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
 - [milla](https://github.com/terminaldweller/milla) - New generation LLM-powered bot with lua scripting support. `Go`
+
+## Encryption
+
+*Plugins and tools for encrypting IRC messages.*
+
+- [irssi-otr](https://github.com/cryptodotis/irssi-otr) - Off-the-Record (OTR) messaging plugin for irssi. `C`
+- [weechat-otr](https://github.com/mmb/weechat-otr) - Off-the-Record (OTR) messaging plugin for WeeChat. `Python`
+- [FiSH-irssi](https://github.com/falsovsky/FiSH-irssi) - Blowfish encryption in ECB/CBC modes with Diffie-Hellman key exchange for irssi. `C`
 
 ## Frameworks
 
