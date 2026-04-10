@@ -56,6 +56,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [ircII](http://www.eterna23.net/ircii/) - One of the oldest IRC clients, initially released in 1989. `Linux` `macOS`
 - [BitchX](https://bitchx.sourceforge.net/) - Terminal-based client popular on Unix-like systems. ([screenshots](https://bitchx.sourceforge.net/category/screenshots.html)) `Linux` `macOS` `Windows`
 - [Goguma](https://sr.ht/~emersion/goguma/) - An IRC client for mobile devices, from the creator of soju. `Android` `Linux`
+- [IRC Vitamin](https://play.google.com/store/apps/details?id=com.todoartedigital.chuecamobile.irc.vitamin) - The most modern Android IRC client for Android phones. Simple, quick and elegant way to chat. `Android`
 
 <!--lint ignore double-link-->
 *More? Clients that include bouncers are found [below](#bouncers).*
