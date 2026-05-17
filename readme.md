@@ -50,6 +50,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [![AdiIRC-icon](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
 - [![IRCforAndroid-icon](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 - [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source](https://github.com/avojak/iridium)) `Linux`
+- [MERK](https://github.com/nutjob-laboratories/merk) - Open source, multiple-document interface GUI client with a rich plugin framework supporting 40+ events; plugins created directly inside the app. ([source](https://github.com/nutjob-laboratories/merk)) `Windows` `macOS` `Linux` `Python`
 - [mIRC](https://www.mirc.co.uk) - One of the most popular IRC clients for Windows, with a built-in scripting language. `Windows`
 - [ObsidianIRC](https://hello.obby.world/) - Modern WebSocket IRC client with Discord-like UI. ([source](https://github.com/ObsidianIRC/ObsidianIRC)) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
 - [XChat](https://xchat.org) - Precursor to HexChat, multi-platform graphical IRC client. `Windows` `Linux`
@@ -122,6 +123,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source](https://github.com/pyhoneybot/honeybot)) `Python`
 - [wayback](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
 - [milla](https://github.com/terminaldweller/milla) - New generation LLM-powered bot with lua scripting support. `Go`
+- [MansionNET Bot Suite](https://github.com/MansionNET) - Collection of self-hostable IRC bots: AI chat assistant, real-time weather, privacy-focused search, YouTube metadata, and AI-powered trivia. ([source](https://github.com/MansionNET)) `Python`
 
 ## Encryption
 
@@ -180,6 +182,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *A collection of IRC servers is known as a network.*
 
 - [Libera.Chat](https://libera.chat) - Network mostly focused on free and open source projects, run by former freenode staff.
+- [MansionNET](https://inthemansion.com) - Privacy-focused community network running UnrealIRCd with Anope services; open to all, no tracking, no ads. (`irc.inthemansion.com:6697`, webchat at `webirc.inthemansion.com`)
 - [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
 - [OFTC](https://oftc.net) - Community for free and open source software communities.
 - [LibertaCasa](https://liberta.casa) - Privacy endorsing community serving as a safe and open space for the discussion of various topics.
