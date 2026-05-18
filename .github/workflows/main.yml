@@ -20,5 +20,6 @@ jobs:
       # White list:
       #   awesome.re - always 301 redirects to github
       #   davison.io - SSL hostname mismatch on cert
-      #   quassel-irc.org - intermittently unreachable
-      - run: awesome_bot readme.md --white-list awesome.re,davison.io,quassel-irc.org
+      # --request-delay 1 - throttle requests so github.com doesn't rate-limit and emit
+      # spurious failures for the many github URLs in the list
+      - run: awesome_bot readme.md --white-list awesome.re,davison.io --request-delay 1
