@@ -1,0 +1,25 @@
+# Link checker config, used by .github/workflows/main.yml
+
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+max_concurrency = 8
+
+# 429 = rate limited, not dead
+accept = ["200..=299", "429"]
+
+exclude = [
+  # always 301 redirects to github
+  '^https://awesome\.re',
+  # SSL hostname mismatch on cert
+  '^https://davison\.io',
+  # Cloudflare bot challenge (403) for automated clients
+  '^https://bitchx\.sourceforge\.net',
+  # Debian anti-bot challenge for automated clients
+  '^https://packages\.debian\.org',
+  '^https://salsa\.debian\.org',
+  # placeholder links in the style guide
+  '^https://example\.com',
+  # GitHub page that requires sign-in
+  '^https://github\.com/davisonio/awesome-irc/pull/new/',
+]
