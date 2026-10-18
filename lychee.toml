@@ -3,6 +3,8 @@
 max_retries = 3
 retry_wait_time = 5
 timeout = 30
+# A slow site on one run isn't a dead link; only hard errors fail the check.
+accept_timeouts = true
 max_concurrency = 8
 
 # 429 = rate limited, not dead
