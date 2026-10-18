@@ -14,17 +14,17 @@ jobs:
   awesome_lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
       - run: npx --yes awesome-lint readme.md
   link_check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       # Exclusions and retry settings live in lychee.toml.
       # GITHUB_TOKEN is the built-in Actions token, used only to avoid
       # github.com rate limits on the many GitHub URLs in the list.
