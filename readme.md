@@ -94,6 +94,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo))
 - [UnrealIRCd](https://www.unrealircd.org) - Modular, advanced IRCd serving thousands of networks since 1999. ([source](https://github.com/unrealircd/unrealircd))
 - [RobustIRC](https://robustirc.net) - IRC server without netsplits. ([source](https://github.com/robustirc/robustirc))
+- [cnircd](https://github.com/chatnet-gg/cnircd) - ChatNet's IRCd, a Solanum fork with custom patches and extensions. ([source](https://github.com/chatnet-gg/cnircd)) `C`
 
 ## Services
 
@@ -124,6 +125,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [wayback](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
 - [milla](https://github.com/terminaldweller/milla) - New generation LLM-powered bot with lua scripting support. `Go`
 - [MansionNET Bot Suite](https://github.com/MansionNET) - Collection of self-hostable IRC bots: AI chat assistant, real-time weather, privacy-focused search, YouTube metadata, and AI-powered trivia. `Python`
+- [ChatNet Bots](https://github.com/chatnet-gg) - Self-hostable bots for running a network: ban/kill audit (cerberus), flood and mass-join protection (sentry), GitHub webhook announcements (herald), self-service ZNC accounts and cloak control. `Go`
 
 ## Encryption
 
@@ -186,6 +188,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
 - [OFTC](https://oftc.net) - Community for free and open source software communities.
 - [LibertaCasa](https://liberta.casa) - Privacy endorsing community serving as a safe and open space for the discussion of various topics.
+- [ChatNet](https://www.chatnet.gg) - IRC network online since 1996 and back live in 2026, with TLS, SASL and IRCv3. (`irc.chatnet.gg:6697`)
 
 ## Articles
 
