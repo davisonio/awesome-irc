@@ -125,6 +125,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [wayback](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
 - [milla](https://github.com/terminaldweller/milla) - New generation LLM-powered bot with lua scripting support. `Go`
 - [MansionNET Bot Suite](https://github.com/MansionNET) - Collection of self-hostable IRC bots: AI chat assistant, real-time weather, privacy-focused search, YouTube metadata, and AI-powered trivia. `Python`
+- [ChatNet Bots](https://github.com/chatnet-gg) - Self-hostable bots for running a network: ban/kill audit (cerberus), flood and mass-join protection (sentry), GitHub webhook announcements (herald), self-service ZNC accounts and cloak control. `Go`
 
 ## Encryption
 
