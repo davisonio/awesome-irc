@@ -94,6 +94,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo))
 - [UnrealIRCd](https://www.unrealircd.org) - Modular, advanced IRCd serving thousands of networks since 1999. ([source](https://github.com/unrealircd/unrealircd))
 - [RobustIRC](https://robustirc.net) - IRC server without netsplits. ([source](https://github.com/robustirc/robustirc))
+- [cnircd](https://github.com/chatnet-gg/cnircd) - ChatNet's IRCd, a Solanum fork with custom patches and extensions. ([source](https://github.com/chatnet-gg/cnircd)) `C`
 
 ## Services
 
