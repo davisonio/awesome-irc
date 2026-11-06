@@ -172,6 +172,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 - [netsplit.de Search](https://netsplit.de/channels/) - Searches 563 different networks.
 - [KiwiIRC Search](https://kiwiirc.com/search) - Searches 318 different networks.
+- [erkstats.info](https://erkstats.info/) - Searches 150+ networks, 21k+ channels.
 
 ### Platforms
 
@@ -191,6 +192,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Articles and blog posts about IRC.*
 
+- [erkstats - The State of IRC October 2026](https://erkstats.info/motd/state-of-irc-october-2026) - erkstats's 'The State of IRC', October 2026
 - [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog.
 - [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) - Pingdom.
 - [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](https://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - Alex Williams (TechCrunch).
